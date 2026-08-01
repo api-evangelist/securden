@@ -1,0 +1,28 @@
+generated: '2026-07-21'
+method: searched
+source: https://www.securden.com/privileged-access-management/help/api-access/how-to-eliminate-hardcoded-credentials-using-apis-in-pam.html
+docs: https://www.securden.com/privileged-access-management/help/api-access/how-to-eliminate-hardcoded-credentials-using-apis-in-pam.html
+summary:
+  types: [apiKey]
+  api_key_in: [query, header]
+  oauth2_flows: []
+  notes: >-
+    Securden Unified PAM / Password Vault exposes a token-based REST API. Access is
+    regulated by an API Authentication Token created per API user/role. Both the official
+    Java client (ApiKeyAuth) and the securden-cli tool authenticate with an "authtoken".
+schemes:
+  - name: authtoken
+    type: apiKey
+    in: query
+    parameter: authtoken
+    description: >-
+      Securden API Authentication Token. Static tokens are generated in the admin
+      console (Admin >> API Access >> Authentication Token for APIs) and can be
+      permanent or valid until a set date. Dynamic (short-lived) tokens are obtained
+      programmatically. The CLI passes it as --authtoken alongside --server-url.
+    sources: [docs, packages/securden-packages.yml]
+token_acquisition:
+  dynamic_token_endpoint: GET /api/get_auth_token
+  parameters: [login_name, password, domain_name]
+  example: 'curl -k -X GET "https://{your_api_url}/api/get_auth_token?login_name=admin&password=admin&domain_name=xyz"'
+  static_token: Admin >> API Access >> Authentication Token for APIs

@@ -1,0 +1,7 @@
+generated: '2026-07-21'
+method: generated
+skills:
+  - file: securden-retrieve-password.md
+    name: Retrieve a credential from Securden
+    api: openapi/securden-password-retrieval-openapi.yml
+    operations: [get_password]

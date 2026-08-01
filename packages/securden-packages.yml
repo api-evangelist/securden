@@ -1,0 +1,47 @@
+generated: '2026-07-21'
+method: searched
+source: https://github.com/SecurdenDevOps
+github_org: https://github.com/SecurdenDevOps
+packages:
+  - language: javascript
+    registry: npm
+    name: "@securden/sdk"
+    url: https://www.npmjs.com/package/@securden/sdk
+    install: npm install @securden/sdk
+    official: true
+    description: Retrieve credentials programmatically from a Securden server.
+  - language: go
+    registry: github
+    name: securden-sdk
+    url: https://github.com/SecurdenDevOps/securden-sdk
+    install: go get github.com/SecurdenDevOps/securden-sdk
+    official: true
+    description: Go SDK for integrating with the Securden Password Retrieval API.
+  - language: java
+    registry: github
+    name: securden-java-client
+    url: https://github.com/SecurdenDevOps/securden-java-client
+    install: "clone github.com/SecurdenDevOps/securden-java-client"
+    official: true
+    description: Java SDK (OpenAPI-generated) for the Securden Password Retrieval API.
+  - language: dotnet
+    registry: nuget
+    name: Securden.DevOpsAdapter
+    url: https://www.nuget.org/packages/Securden.DevOpsAdapter
+    install: dotnet add package Securden.DevOpsAdapter
+    official: true
+    description: .NET client for Securden integration (authors "Securden, Inc.").
+  - language: hcl
+    registry: github
+    name: terraform-provider-securden
+    url: https://github.com/SecurdenDevOps/terraform-provider-securden
+    install: "terraform { required_providers { securden = { source = \"SecurdenDevOps/securden\" } } }"
+    official: true
+    description: Terraform provider for Securden.
+  - language: puppet
+    registry: github
+    name: securden-puppet
+    url: https://github.com/SecurdenDevOps/puppet
+    install: "clone github.com/SecurdenDevOps/puppet"
+    official: true
+    description: Puppet module exposing a Securden credential-retrieval function.

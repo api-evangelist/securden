@@ -1,0 +1,14 @@
+{
+  "provider": "securden",
+  "sources": [
+    "securden-get-password-api-openapi.yml"
+  ],
+  "outputs": [
+    "securden-get-password-api-openapi.yml"
+  ],
+  "archived": [],
+  "errors": [],
+  "warnings": [],
+  "notes": [],
+  "skipped": []
+}

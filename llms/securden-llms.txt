@@ -1,0 +1,1197 @@
+# Securden – The World’s First Unified Identity Security Platform | Unifying PAM, EPM, IGA, CIEM & AI
+
+> Securden is the world’s first unified identity security platform, unifying PAM, EPM, IGA, CIEM, and AI Agent Security to protect human, machine, and AI identities. Eliminate fragmented tools, reduce complexity, and maximize ROI.
+
+## Pages
+
+* [Securden – The World’s First Unified Identity Security Platform | Unifying PAM, EPM, IGA, CIEM & AI](https://www.securden.com/)
+
+* [Password Manager for Enterprises and Teams | Secure Password Vault for Business Password Management](https://www.securden.com/password-manager/index.html)
+
+* [Remove Admin Rights & Enforce Least Privilege | Privilege Management for Windows, macOS, and Linux](https://www.securden.com/endpoint-privilege-manager/index.html)
+
+* [Privileged Access Management Software (#1 PAM Platform)](https://www.securden.com/privileged-account-manager/index.html)
+
+* [Privileged Access Management for MSPs | Securden Unified PAM MSP](https://www.securden.com/msp/privileged-access-management/index.html)
+
+* [Non-Human Identity Security Platform for Machine Identities](https://www.securden.com/identity-security/non-human-identity-security/index.html)
+
+* [Enterprise Identity Governance & IGA Platform | Securden](https://www.securden.com/identity-security/identity-governance-and-administration/index.html)
+
+* [AI Agent Governance, Security and Runtime Control Platform | Securden](https://www.securden.com/identity-security/ai-agent-governance-security/index.html)
+
+* [How does a Business Password Manager help Enterprises? | Securden Password Manager](https://www.securden.com/password-management/business-password-manager.html)
+
+* [Fortifying Just-in-Time Access with Ephemeral Accounts | Zero Standing Privileges | Privileged Access Management](https://www.securden.com/blog/fortifying-just-in-time-access-with-ephemeral-accounts.html)
+
+* [Australia’s Top Sporting League Regulates Vendor Privileged Access Using Securden Unified PAM](https://www.securden.com/customer-success-stories/holistic-access-security-across-organization-pam.html)
+
+* [Leading Swiss Bank Fortifies Security Controls and Demonstrates Compliance with Securden Unified PAM](https://www.securden.com/customer-success-stories/swiss-bank-streamlines-privileged-access-to-mitigate-insider-threats.html)
+
+* [Best Password Managers of 2026 | Compare Top solutions, Features, Pricing & Alternatives](https://www.securden.com/blog/best-password-managers.html)
+
+* [1Password vs Keeper: Which is the Best Password Manager?](https://www.securden.com/blog/1password-vs-keeper.html)
+
+* [Keeper vs LastPass: Which Password Manager is Better in 2025?](https://www.securden.com/blog/keeper-vs-lastpass.html)
+
+* [Keeper Pricing Guide: Understanding Plans, Costs, and Reviews](https://www.securden.com/blog/keeper-pricing-review.html)
+
+* [7 Best Password Managers for Teams (Updated 2026) | Securden](https://www.securden.com/blog/password-managers-for-teams.html)
+
+* [1Password vs LastPass: How to Choose the Best Password Manager for 2026?](https://www.securden.com/blog/1password-vs-lastpass.html)
+
+* [Bitwarden vs 1Password: Top Password Managers Compared(2026)](https://www.securden.com/blog/bitwarden-vs-1password.html)
+
+* [Keeper Alternatives: 5 Top-Rated Password Managers for 2026](https://www.securden.com/blog/keeper-alternatives.html)
+
+* [Best Alternatives & Competitors to 1Password 2026](https://www.securden.com/blog/1password-alternatives.html)
+
+* [12 Privileged Access Management Best Practices in 2025](https://www.securden.com/blog/privileged-access-management-best-practices.html)
+
+* [PAM Implementation: Steps, Challenges, & Solutions](https://www.securden.com/blog/pam-implementation.html)
+
+* [Top 10 Privileged Access Management Use Cases Explained](https://www.securden.com/blog/pam-use-cases.html)
+
+* [Inside the Password Panic | Key Enterprise Lessons from March 2025 Breaches](https://www.securden.com/blog/recent-password-breaches-mar-2025.html)
+
+* [Privileged Access Management (PAM) FAQs | Securden Unified PAM](https://www.securden.com/privileged-account-manager/privileged-access-management-faqs.html)
+
+* [Privileged Access Management (PAM) for Banks & Financial Institutions | Securden](https://www.securden.com/privileged-account-manager/pam-for-financial-institutions.html)
+
+* [What is Just-in-Time Access (JIT Access)? Types, Benefits & How It Works](https://www.securden.com/blog/just-in-time-access.html)
+
+* [Governing AI Identities with Privileged Access Controls](https://www.securden.com/blog/privileged-identity-control-for-ai-agents.html)
+
+* [PAM Use cases for Banks | PAM for Financial Institutions](https://www.securden.com/blog/pam-for-banks-usecases.html)
+
+* [Privileged Access Management (MSP) Features | Unified PAM MSP](https://www.securden.com/msp/privileged-access-management/features.html)
+
+* [Free Password Generator – Strong, Secure, Random & Easy to Use](https://www.securden.com/password-generator.html)
+
+* [PAM Architecture for Managed Service Providers | Unified PAM MSP](https://www.securden.com/msp/privileged-access-management/architecture.html)
+
+* [Privileged Access Management MSP Pricing | Securden](https://www.securden.com/msp/privileged-access-management/get-quote.html)
+
+* [Unified PAM MSP Technical Specifications | Securden Identity Security Platform](https://www.securden.com/msp/privileged-access-management/technical-specifications.html)
+
+* [Top CyberArk PAM Alternatives: Best Tool in 2026](https://www.securden.com/privileged-account-manager/cyberark-alternative.html)
+
+* [Top BeyondTrust Alternative in 2026 |Securden Unified PAM vs BeyondTrust Comparison](https://www.securden.com/privileged-account-manager/beyondtrust-alternative.html)
+
+* [Top Delinea Secret Server Alternative 2025 | Securden PAM vs. Delinea Comparison](https://www.securden.com/privileged-account-manager/delinea-alternative.html)
+
+* [Top Admin By Request Alternatives in 2026 | Securden](https://www.securden.com/endpoint-privilege-manager/admin-by-request-alternative.html)
+
+* [Securing Remote Access for Work from Home Employees using PAM](https://www.securden.com/blog/how-pam-solutions-secure-remote-work-scenarios.html)
+
+* [Securden Launches World’s First Unified Identity Security Platform at RSA 2026](https://www.securden.com/news/rsaconf-2026-unified-identity-security-platform.html)
+
+* [Automate Least Privilege to Reduce Helpdesk Tickets | Securden EPM](https://www.securden.com/endpoint-privilege-manager/reduce-helpdesk-tickets-using-least-privilege.html)
+
+* [Privileged Access Management Case Study | Managed Services](https://www.securden.com/customer-success-stories/managed-services-privileged-access-credential-governance.html)
+
+* [How to Secure, Share, and Manage Team Passwords? | Securden Password Manager for Teams](https://www.securden.com/password-manager/password-manager-for-teams.html)
+
+* [Small Business Password Manager Solution | Password Vault for Teams](https://www.securden.com/password-manager/password-management-small-business.html)
+
+* [Password Manager FAQs | Definitions & Concepts (Updated Feb 2026)](https://www.securden.com/password-manager/frequently-asked-questions-faqs.html)
+
+* [Vendor Privileged Access Management (VPAM) | PAM Software](https://www.securden.com/privileged-account-manager/vendor-privileged-access-management-vpam.html)
+
+* [Privileged Access Management Features | Securden Unified PAM](https://www.securden.com/privileged-account-manager/pam-features.html)
+
+* [PAM for Cyber Insurance Readiness | Securden Unified PAM](https://www.securden.com/privileged-account-manager/pam-for-cyberinsurance.html)
+
+* [Best LastPass Alternative | Securden Password Vault for Enterprises](https://www.securden.com/password-manager/lastpass-alternative.html)
+
+* [Privileged Access Management for Manufacturing | Secure OT, SCADA, & IoT with Securden PAM](https://www.securden.com/privileged-account-manager/pam-for-manufacturing.html)
+
+* [Windows Privilege Escalation Best Practices](https://www.securden.com/blog/windows-privilege-escalation.html)
+
+* [Fundamental Password Security Best Practices - Halloween Edition | Securden Password Manager](https://www.securden.com/blog/data-breaches-halloween-password-security.html)
+
+* [Securden at GITEX Global 2022 | Meet the experts](https://www.securden.com/blog/meet-us-at-gitex-dubai-2022.html)
+
+* [Mother of all breaches - The importance of password security](https://www.securden.com/blog/mother-of-all-breaches-password-security.html)
+
+* [How to Control Local Admin Access to Developers without Impacting Productivity](https://www.securden.com/blog/secure-local-administrator-rights-on-developer-devices.html)
+
+* [Local Admin Accounts - Security Risks and Best Practices (Part 1)](https://www.securden.com/blog/local-admin-accounts-management.html)
+
+* [PAM for Federal & Local Government Agencies | Securden Unified PAM](https://www.securden.com/privileged-account-manager/pam-for-federal-local-government-agencies.html)
+
+* [Top 10 corporate password policy recommendations for SysAdmins in 2026](https://www.securden.com/blog/top-10-password-policies.html)
+
+* [/privileged-account-manager/docs/Security-Design-and-Specifications-PAM.pdf](https://www.securden.com/privileged-account-manager/docs/Security-Design-and-Specifications-PAM.pdf)
+
+* [/privileged-account-manager/docs/pam-implementation-guide.pdf](https://www.securden.com/privileged-account-manager/docs/pam-implementation-guide.pdf)
+
+* [/endpoint-privilege-manager/docs/local-admin-account-management-tutorial.pdf](https://www.securden.com/endpoint-privilege-manager/docs/local-admin-account-management-tutorial.pdf)
+
+* [Securden News Room: Press Releases, Magazine Articles, Product Reviews](https://www.securden.com/news/press-releases.html)
+
+* [/privileged-account-manager/docs/security-and-server-hardening-guide.pdf](https://www.securden.com/privileged-account-manager/docs/security-and-server-hardening-guide.pdf)
+
+* [Overcoming the Security Risks Associated with Local Administrator Accounts | Securden White Paper](https://www.securden.com/documents/white-papers/local-admin-password-solution.html)
+
+* [/password-manager/docs/password-vault-deployment-guide.pdf](https://www.securden.com/password-manager/docs/password-vault-deployment-guide.pdf)
+
+* [Local Admin Password Management: Microsoft LAPS Vs. Privileged Access Manager (PAM)](https://www.securden.com/blog/microsoft-laps-vs-securden-pam.html)
+
+* [How pirated software and local admin rights lead to malware propagation](https://www.securden.com/blog/pirated-software-malware.html)
+
+* [Alternative to Clickstudios Passwordstate | Securden PAM, Password Manager](https://www.securden.com/blog/clickstudios-passwordstate-alternative.html)
+
+* [Ransomware attack on Colonial Pipeline: Executing cyberattacks, now a child's play!](https://www.securden.com/blog/colonial-pipeline-attack-compromised-password.html)
+
+* [/documents/privileged-access-management-benefits.pdf](https://www.securden.com/documents/privileged-access-management-benefits.pdf)
+
+* [Local Admin Accounts Management: Eliminate Local Admin Rights](https://www.securden.com/blog/eliminate-local-admin-rights.html)
+
+* [/endpoint-privilege-manager/docs/Security-Design-and-Specifications-WPM.pdf](https://www.securden.com/endpoint-privilege-manager/docs/Security-Design-and-Specifications-WPM.pdf)
+
+* [Password Management Best Practices for 2026 | Prevent Data Breaches](https://www.securden.com/blog/password-best-practices-data-breaches.html)
+
+* [Password Leaks | Poor password security practices cause massive security breaches](https://www.securden.com/blog/credential-spills-security-breaches.html)
+
+* [Privileged Access Security - Blogs | Securden Unified PAM](https://www.securden.com/blog/index.html)
+
+* [/password-manager/docs/Password-Vault-Datasheet.pdf](https://www.securden.com/password-manager/docs/Password-Vault-Datasheet.pdf)
+
+* [How to Discover Accounts and Configure Session Recording in PAM](https://www.securden.com/knowledge-base/miscellaneous.html)
+
+* [Securden expands its operations in North America with additional investments in sales, marketing, and channel partner resources.](https://www.securden.com/news/expansion-in-north-america.html)
+
+* [Switch from Passwordstate to Securden Unified PAM for Free](https://www.securden.com/privileged-account-manager/passwordstate-password-manager-alternative.html)
+
+* [Securden Password Vault Online Demo](https://www.securden.com/password-manager/online-demo.html)
+
+* [/endpoint-privilege-manager/docs/Windows-Privilege-Manager-Datasheet.pdf](https://www.securden.com/endpoint-privilege-manager/docs/Windows-Privilege-Manager-Datasheet.pdf)
+
+* [Florida Water Treatment Plant Hack: A Wake-Up Call to Strengthen Basic Security Measures, Password Hygiene](https://www.securden.com/blog/florida-water-plant-cyber-attack.html)
+
+* [Securden unveils new channel program to tap the surging demand for Privileged Access Security solutions](https://www.securden.com/news/securden-new-partner-program.html)
+
+* [How to effectively prevent the security threats caused by trusted insiders](https://www.securden.com/blog/combating-insider-threats.html)
+
+* [/privileged-account-manager/docs/Unified-PAM-Datasheet.pdf](https://www.securden.com/privileged-account-manager/docs/Unified-PAM-Datasheet.pdf)
+
+* [About Securden | Trusted Privileged Access Security Platform](https://www.securden.com/about.html)
+
+* [Securden Glossary](https://www.securden.com/glossary.html)
+
+* [Securden Software License Agreement | Securden Unified PAM](https://www.securden.com/end-user-license-agreement.html)
+
+* [Securden Privacy Notice](https://www.securden.com/privacy-policy.html)
+
+* [Get Price Quote | Securden Identity Security Platform](https://www.securden.com/get-price-quote.html)
+
+* [Independent Third-Party Assessment and Validation of Securden IT Security Platform](https://www.securden.com/security-certification.html)
+
+* [Privileged Access Management Resources | Securden](https://www.securden.com/resources.html)
+
+* [Privileged Access Management Resources | Securden Unified PAM](https://www.securden.com/privileged-account-manager/pam-resources.html)
+
+* [Password Manager | Securden Password Vault Resources](https://www.securden.com/password-manager/vault-resources.html)
+
+* [Best NordPass Alternative for 2026](https://www.securden.com/password-manager/nordpass-alternative.html)
+
+* [Endpoint Privilege Manager Resources | Securden EPM](https://www.securden.com/endpoint-privilege-manager/epm-resources.html)
+
+* [Securden Channel Partners | Resellers and MSPs Working with Securden](https://www.securden.com/partners.html)
+
+* [Request Personalized Demo | Securden Identity Security Platform](https://www.securden.com/personalized-demo.html)
+
+* [Application Control: Whitelisting (Allowlisting) and Blocklisting (Blacklisting) | Securden Endpoint Privilege Manager](https://www.securden.com/endpoint-privilege-manager/application-control.html)
+
+* [Securden Channel Partner Program | Fastest Growing IT Security Startup](https://www.securden.com/partner-program.html)
+
+* [/documents/Securden-PAM-Brochure.pdf](https://www.securden.com/documents/Securden-PAM-Brochure.pdf)
+
+* [Secure Remote Access without VPN, Agents | Securden Unified PAM](https://www.securden.com/privileged-account-manager/how-to-grant-secure-remote-access-for-employees.html)
+
+* [Start a Trial of Privileged Access Security Solutions](https://www.securden.com/downloads.html)
+
+* [Leading Swiss Bank Fortifies Security Controls and Demonstrates Compliance with Securden Unified PAM](https://www.securden.com/customer-success-stories/swiss-bank-streamlines-privileged-access-to-mitigate-insider-threats.html)
+
+* [Credential Stuffing & HIPAA Violations: The Warby Parker Breach Explained](https://www.securden.com/blog/credential-stuffing-and-hipaa-non-compliance.html)
+
+* [Privileged Access Management (PAM) and Session Manager (PSM) Deployment Options](https://www.securden.com/privileged-account-manager/pam-deployment-options.html)
+
+* [Password Manager for MSP | Password Management for Managed Service Providers](https://www.securden.com/password-manager/msp-password-management.html)
+
+* [Enterprise Password Manager Features | Securden Password Vault for Enterprises](https://www.securden.com/password-manager/features.html)
+
+* [Password Manager For Enterprises - Request a Demo | Securden Password Vault](https://www.securden.com/password-manager/demo-request.html)
+
+* [Password Manager Free Trial for Enterprises (No Credit Card Required) | Securden](https://www.securden.com/password-manager/download.html)
+
+* [Enterprise Password Manager Deployment Options | Securden Password Vault](https://www.securden.com/password-manager/password-management-deployment-options.html)
+
+* [Windows Account Management | Securden Unified PAM](https://www.securden.com/privileged-account-manager/features/windows-account-management.html)
+
+* [Minimize Attack Surface With Securden Endpoint Privilege Management - Unified PAM](https://www.securden.com/privileged-account-manager/features/unified-endpoint-privilege-management.html)
+
+* [Integrate PAM with SAML-based SSO Login | Securden Unified PAM](https://www.securden.com/privileged-account-manager/features/sso-tools-saml-integration.html)
+
+* [Integrate PAM with SIEM Integration | Detect Threats with Securden Unified PAM](https://www.securden.com/privileged-account-manager/features/siem-tools-helpdesk-integration.html)
+
+* [SSH Key Management | Store and Rotate Secure Shell Keys with Securden Unified PAM](https://www.securden.com/privileged-account-manager/features/secure-shell-keys.html)
+
+* [Secure Your Remote Access with Securden Unified PAM](https://www.securden.com/privileged-account-manager/features/secure-remote-access.html)
+
+* [Grant Remote Access Without Revealing Passwords | Securden PAM](https://www.securden.com/privileged-account-manager/features/remote-access-controls.html)
+
+* [Privileged Session Management | Monitor Remote Access with Unified PAM](https://www.securden.com/privileged-account-manager/features/privileged-session-management.html)
+
+* [Discover and Manage Privileged Accounts | Securden Unified PAM](https://www.securden.com/privileged-account-manager/features/privileged-accounts-discovery-tool.html)
+
+* [Privilege Elevation and Delegation Management (PEDM) | Securden](https://www.securden.com/privileged-account-manager/features/privilege-elevation-delegation-management.html)
+
+* [Remote IT Access Without Revealing Passwords | Securden Unified PAM](https://www.securden.com/privileged-account-manager/features/manage-shared-admin-passwords.html)
+
+* [Multifactor Authentication (MFA) Integrations In PAM | Securden Unified PAM](https://www.securden.com/privileged-account-manager/features/mfa-security.html)
+
+* [PAM Active Directory Integration | Securden Unfied PAM](https://www.securden.com/privileged-account-manager/features/pam-active-directory-integration.html)
+
+* [Automate Password Rotation & Periodic Reset | Securden Unified PAM](https://www.securden.com/privileged-account-manager/features/automated-password-rotation.html)
+
+* [Comprehensive Audit and Compliance Reports | Securden Unified PAM](https://www.securden.com/privileged-account-manager/features/audit-and-compliance-reporting.html)
+
+* [Automated Approval Workflow And Access Controls Through Just-in-time Security Practice.](https://www.securden.com/privileged-account-manager/features/approval-workflow-just-in-time-access.html)
+
+* [Application to Application Password Management with APIs | Securden](https://www.securden.com/privileged-account-manager/features/application-to-application-password-management.html)
+
+* [Password Management Best Practices in 2000 - 2020](https://www.securden.com/blog/password-management-practices.html)
+
+* [Windows Privilege Escalation Best Practices](https://www.securden.com/blog/windows-privilege-escalation.html)
+
+* [PAM Lifecycle: In-depth Guide to Managing Privileged Access](https://www.securden.com/blog/pam-lifecycle.html)
+
+* [Securing Industrial Control Systems with a Robust PAM Strategy | Securden Unified PAM](https://www.securden.com/blog/bolstering-ics-security-in-manufacturing-with-pam-infographic.html)
+
+* [Industrial Calibration Leader Streamlines Password Management | Securden Password Manager](https://www.securden.com/customer-success-stories/industrial-calibration-leader-streamlines-password-management-with-securden.html)
+
+* [Securden Customer Success Stories & Testimonials](https://www.securden.com/customer-success-stories/index.html)
+
+* [Cyber Insurance Coverage Checklist with PAM | Securden Unified PAM](https://www.securden.com/privileged-account-manager/pam-cyberinsurance-checklist.html)
+
+* [Securden Unified PAM: Best alternative for MSPs who use ThreatLocker](https://www.securden.com/msp/privileged-access-management/threatlocker-alternative.html)
+
+* [DevOps Secrets Management |  Securden Enterprise Password Manager](https://www.securden.com/password-manager/features/devops-secrets-management.html)
+
+* [Switch from Keeper & Save: Get 25% Off Securden Password Vault for Enterprises](https://www.securden.com/password-manager/switch-from-keeper-password-manager.html)
+
+* [Free POC Password Manager for Enterprise | Password Vault Start with POC](https://www.securden.com/password-manager/start-poc.html)
+
+* [Free POC - Securden Endpoint Privilege Manager](https://www.securden.com/endpoint-privilege-manager/start-poc.html)
+
+* [Endpoint Privilege Management - Technical Specifications | Securden](https://www.securden.com/endpoint-privilege-manager/technical-specifications.html)
+
+* [Password Security Best Practices | Securden Enterprise Password Manager](https://www.securden.com/blog/poor-api-security-re-emphasize-password-security-best-practices.html)
+
+* [Privileged Account Management - Recorded Demo](https://www.securden.com/privileged-account-manager/view-demo-video.html)
+
+* [Start a Free POC With Securden Privileged Account Manager | Unified PAM](https://www.securden.com/privileged-account-manager/start-poc.html)
+
+* [Best PAM Alternative to CyberArk, BeyondTrust, Delinea, Arcon in 2025  | Securden Unified PAM](https://www.securden.com/blog/securden-vs-competitors.html)
+
+* [Password Manager Pricing, Plans & Comparison | Securden Password Vault for Enterprises](https://www.securden.com/password-manager/pricing.html)
+
+* [Password Manager as a Service | Securden Cloud Password Vault](https://www.securden.com/password-manager/cloud-signup.html)
+
+* [Endpoint Privilege Management as a Service | Securden EPM](https://www.securden.com/endpoint-privilege-manager/epm-as-a-service.html)
+
+* [Privileged Access Manager - Contact Sales | Securden PAM](https://www.securden.com/privileged-account-manager/contact-sales.html)
+
+* [Endpoint Privilege Management - Use Cases | Securden EPM](https://www.securden.com/endpoint-privilege-manager/endpoint-privilege-management.html)
+
+* [Endpoint Privilege Management - 30 Days Free Trial | Securden EPM](https://www.securden.com/endpoint-privilege-manager/download.html)
+
+* [On-Premise Password Manager | Enterprises Password Vault Architecture](https://www.securden.com/password-manager/password-vault-architecture.html)
+
+* [Password Manager Technical Specification | Securden Enterprise Password Vault](https://www.securden.com/password-manager/technical-specifications.html)
+
+* [Privileged Password Manager Technical Specifications | Securden PAM](https://www.securden.com/privileged-account-manager/technical-specifications.html)
+
+* [Privileged Access Management (PAM) Demo Request | Securden Unified PAM](https://www.securden.com/privileged-account-manager/demo-request.html)
+
+* [Privileged Access Management Pricing | Securden Unified PAM](https://www.securden.com/privileged-account-manager/get-quote.html)
+
+* [Endpoint Privilege Management Techncial Support | Securden EPM](https://www.securden.com/endpoint-privilege-manager/technical-support.html)
+
+* [Privileged Account Manager - Request a Callback | Securden PAM](https://www.securden.com/privileged-account-manager/request-call-back.html)
+
+* [Privilege Management for Windows: Least Privilege Security and Privileged Account Management](https://www.securden.com/endpoint-privilege-manager/demo-request.html)
+
+* [Enterprise Password Manager Pricing | Securden Password Vault](https://www.securden.com/password-manager/get-quote.html)
+
+* [Privileged Access Management (PAM) Architecture | Securden Unified PAM](https://www.securden.com/privileged-account-manager/pam-architecture.html)
+
+* [Centrally Manage Client Passwords | PAM for MSPs](https://www.securden.com/msp/privileged-access-management/how-to-manage-client-passwords.html)
+
+* [Manage Local Administrator Rights for MSP Technicians | PAM for MSPs](https://www.securden.com/msp/privileged-access-management/how-to-manage-local-admin-rights.html)
+
+* [PAM Pricing Overview: Cost Breakdown and Best Pricing Models](https://www.securden.com/blog/pam-pricing.html)
+
+* [Satisfy Essential Eight Controls with PAM Software | Securden](https://www.securden.com/privileged-account-manager/essential-eight-mitigation-strategies-with-privileged-access-management.html)
+
+* [Meet CMMC Requirements with Privileged Access Mangement (PAM)](https://www.securden.com/privileged-account-manager/cmmc-compliance-pam.html)
+
+* [PAM for Manufacturing OT, SCADA, & IoT | Securden Unified PAM](https://www.securden.com/privileged-account-manager/prepare-for-nis2-directive-with-privileged-access-management.html)
+
+* [Setting Up Email Notifications for Privilege Elevation Requests | Unified PAM](https://www.securden.com/knowledge-base/how-to-configure-email-notifications-for-privilege-elevation-requests-in-pam.html)
+
+* [How Time Co-ordination is Handled on On-prem Editions of Securden?](https://www.securden.com/knowledge-base/how-securden-corordinates-time-on-onprem-products.html)
+
+* [Enforce Least Privileges, Remove Local Administrator Rights, Control Applications | Securden](https://www.securden.com/endpoint-privilege-manager/local-administrator-removal-application-control.html)
+
+* [Local Administrator Rights Management in Mac | Endpoint Privilege Management](https://www.securden.com/endpoint-privilege-manager/features/local-administrator-management-mac.html)
+
+* [How to Approve Privilege Elevation Requests using Ticketing Systems (ITSM)?](https://www.securden.com/endpoint-privilege-manager/features/itsm-integration-for-managing-privilege-elevation-requests.html)
+
+* [How to Manage Admin Rights on Offline Endpoints? | Securden EPM](https://www.securden.com/endpoint-privilege-manager/features/manage-admin-rights-on-offline-endpoints.html)
+
+* [Securden Endpoint Privilege Manager Request a call back](https://www.securden.com/endpoint-privilege-manager/request-call-back.html)
+
+* [Privileged Access Management Technical Support | Securden Unified PAM](https://www.securden.com/privileged-account-manager/technical-support.html)
+
+* [Password Vault For Enterprises Technical Support | Securden](https://www.securden.com/password-manager/technical-support.html)
+
+* [Application Password Management | Eliminate Hard-Coded Credentials](https://www.securden.com/blog/application-to-application-password-management.html)
+
+* [Cyber-attack stats and the privileged access strategy required](https://www.securden.com/blog/cyber-attack-stats-and-privileged-access-strategy-required.html)
+
+* [Windows Local Administrator Privilege Management Architecture](https://www.securden.com/endpoint-privilege-manager/least-privilege-security-architecture.html)
+
+* [Windows Local Administrator Privilege Management Architecture](https://www.securden.com/endpoint-privilege-manager/architecture.html)
+
+* [Endpoint Privilege Management Pricing | Securden EPM](https://www.securden.com/endpoint-privilege-manager/get-quote.html)
+
+* [Enterprise Password Manager Demo Video | Securden](https://www.securden.com/password-manager/view-demo-video.html)
+
+* [Sales Enquiry | Securden Password Vault for Enterprises](https://www.securden.com/password-manager/contact-sales.html)
+
+* [Request a Callback | Securden Password Vault for Enterprises](https://www.securden.com/password-manager/request-call-back.html)
+
+* [Top 7 LastPass Alternatives and Competitors (Updated 2026) | Securden](https://www.securden.com/blog/lastpass-alternatives.html)
+
+* [Bitwarden vs LastPass: In-Depth 2025 Comparison Guide](https://www.securden.com/blog/bitwarden-vs-lastpass.html)
+
+* [Windows Local Admin Privilege Management Deployment Model](https://www.securden.com/endpoint-privilege-manager/deployment-model.html)
+
+* [/customer-success-stories/Password-management-practices-case-study.pdf](https://www.securden.com/customer-success-stories/Password-management-practices-case-study.pdf)
+
+* [Achieving NERC-CIP Compliance: A Real-World Success with Securden PAM](https://www.securden.com/customer-success-stories/achieving-nerc-cip-compliance-using-securden-unified-pam.html)
+
+* [Australian University Enforces Granular App Control with Securden EPM](https://www.securden.com/customer-success-stories/australian-university-enforces-privilege-management-and-granular-application-control.html)
+
+* [German Digital Forensics Service Provider Streamlines Identity Security Using Securden Password Vault](https://www.securden.com/customer-success-stories/digifors-streamlines-identity-security-with-password-manager.html)
+
+* [Endpoint Privilege Manager - Use Case Walkthrough](https://www.securden.com/endpoint-privilege-manager/docs/epm-use-case-walkthrough/index.html)
+
+* [Secure Remote Access to IT Infrastructure for Work From Home Employees | Securden Unified PAM](https://www.securden.com/news/remote-access-software.html)
+
+* [Endpoint Privilege Manager with Application Control - Demo | Securden](https://www.securden.com/endpoint-privilege-manager/view-demo-video.html)
+
+* [Securden raises funds from global VC firm Accel, Freshworks founder](https://www.securden.com/news/securden-investment.html)
+
+* [Securden Endpoint Privilege Manager - Sales Inquiry](https://www.securden.com/endpoint-privilege-manager/contact-sales.html)
+
+* [Download Privileged Access Management (PAM) Trial | Securden](https://www.securden.com/privileged-account-manager/download.html)
+
+* [/documents/Securden-WPM-Brochure.pdf](https://www.securden.com/documents/Securden-WPM-Brochure.pdf)
+
+* [How to Prevent Ransomware Attacks | Hacker's Recommendations](https://www.securden.com/blog/tips-to-prevent-ransomware-attacks.html)
+
+* [/documents/Securden-Password-Vault-Brochure.pdf](https://www.securden.com/documents/Securden-Password-Vault-Brochure.pdf)
+
+* [Enterprise Password Manager Pricing | Securden Password Vault](https://www.securden.com/password-manager/get-quote.html?edition=Teams)
+
+* [Enterprise Password Manager Pricing | Securden Password Vault](https://www.securden.com/password-manager/get-quote.html?edition=Enterprise-PAM)
+
+* [Enterprise Password Manager Pricing | Securden Password Vault](https://www.securden.com/password-manager/get-quote.html?edition=Starter)
+
+* [Enterprise Password Manager Pricing | Securden Password Vault](https://www.securden.com/password-manager/get-quote.html?edition=Enterprise)
+
+* [Actionable Security Reports | Securden Password Vault for Enterprises](https://www.securden.com/password-manager/features/actionable-security-reports.html)
+
+* [Active Directory Integration for User Provisioning and Authentication | Securden Password Vault for Enterprises](https://www.securden.com/password-manager/features/active-directory-integration.html)
+
+* [Real Time Alerts and Event Notifications | Securden Password Vault for Enterprises](https://www.securden.com/password-manager/features/alerts-events-notifications.html)
+
+* [Application-to-Application Password Management | Securden Password Vault for Enterprises](https://www.securden.com/password-manager/features/application-to-application-passwords.html)
+
+* [Autofill Passwords and Forms | Securden Password Vault for Enterprises](https://www.securden.com/password-manager/features/auto-login-to-websites.html)
+
+* [PAM Webinar – Navigating Privileged Access Security in the Zero Trust Era | Securden](https://www.securden.com/webinar/navigating-identity-access-security-zero-trust-era-unified-pam.html)
+
+* [Centralized Password Management | Shared Accounts Password Management](https://www.securden.com/password-manager/features/centrally-store-passwords.html)
+
+* [Cross-Platform Password Manager | Securden Password Vault for Enterprise](https://www.securden.com/password-manager/features/cross-platform-access.html)
+
+* [Discover Privileged Accounts | Securden Password Vault for Enterprises](https://www.securden.com/password-manager/features/discover-privileged-accounts.html)
+
+* [Just-In-Time Access Approval Workflows | Securden Password Vault for Enterprises](https://www.securden.com/password-manager/features/four-eyes-approval-workflow.html)
+
+* [How to Provide Granular Access Controls for Passwords Secrets in Organizations? | Securden Password Vault for Enterprises](https://www.securden.com/password-manager/features/granular-access-controls.html)
+
+* [Password Backup and Disaster Recovery | Password Manager Features](https://www.securden.com/password-manager/features/high-availability.html)
+
+* [Manage SSH Keys & DevOps Secrets | Securden Password Vault for Enterprises](https://www.securden.com/password-manager/features/manage-ssh-keys-devops-secrets.html)
+
+* [Securden Mobile Apps for Password Management | Secure iOS and Android Access](https://www.securden.com/password-manager/features/mobile-apps.html)
+
+* [Password Manager with Multi-Factor Authentication (MFA) | Securden Password Vault for Enterprises](https://www.securden.com/password-manager/features/multi-factor-authentication.html)
+
+* [Password Manager with Offline Access | Securden Password Vault for Enterprises](https://www.securden.com/password-manager/features/offline-access.html)
+
+* [Manage Passwords Securely in Distributed Networks | Securden Password Vault for Enterprises](https://www.securden.com/password-manager/features/pam-for-distributed-networks.html)
+
+* [Password Audit Trails – Secure Tracking & Compliance | Securden Password Vault for Enterprises](https://www.securden.com/password-manager/features/password-audit-trails.html)
+
+* [Password Policies for IT Compliance | Securden Password Vault for Enterprises](https://www.securden.com/password-manager/features/password-policies.html)
+
+* [Automated Password Reset & Rotation | Securden Password Vault for Enterprises](https://www.securden.com/password-manager/features/periodic-password-reset.html)
+
+* [Secure Remote Access with Password Masking | Securden Password Vault for Enterprises](https://www.securden.com/password-manager/features/remote-access-mask-password.html)
+
+* [Launch Secure Remote Connection (RDP, SSH, SQL) to IT Assets | Securden Password Vault for Enterprises](https://www.securden.com/password-manager/features/remote-desktop-connections.html)
+
+* [Role-based Access Controls for Privileged Access | Password Manager Features](https://www.securden.com/password-manager/features/role-based-access-controls.html)
+
+* [Integration with SAML Single Sign-On Solutions | Securden Password Manager Features](https://www.securden.com/password-manager/features/saml-single-sign-on.html)
+
+* [Shared Password Management | Manage shared administrative accounts](https://www.securden.com/password-manager/features/shared-password-management.html)
+
+* [Client Password Management Best Practices for MSPs | Password Manager for MSPs](https://www.securden.com/blog/manage-client-passwords-efficiently.html)
+
+* [SIEM and Ticketing Systems Integration | Securden](https://www.securden.com/password-manager/features/siem-ticketing-system-integration.html)
+
+* [Launch browser based RDP, SSH connections with IT assets | Securden](https://www.securden.com/password-manager/features/web-based-remote-access.html)
+
+* [Manage Windows Accounts - Local, Domain, Service and Dependencies | Securden](https://www.securden.com/password-manager/features/windows-service-accounts-management.html)
+
+* [Privileged Access Management (PAM) Knowledge Base | Securden](https://www.securden.com/knowledge-base/index.html)
+
+* [High Availability, and Data Redundancy | Privileged Access Management (PAM)](https://www.securden.com/knowledge-base/high-availability-in-pam.html)
+
+* [Differences between the On-Premises PAM and the Privileged Access Management as a Service | Securden Unified PAM](https://www.securden.com/knowledge-base/difference-between-on-prem-pam-and-pam-as-a-service.html)
+
+* [How to configure remote connections to SQL Server Management Studio (SSMS) in PAM | Privileged Access Management](https://www.securden.com/knowledge-base/how-to-configure-remote-connections-to-sql-server-management-studio-ssms-in-pam.html)
+
+* [How to Run Securden on FIPS Compliant Mode?](https://www.securden.com/knowledge-base/how-to-run-securden-on-fips-compliant-mode.html)
+
+* [Global charitable organization streamlines its password lifecycle management processes using Securden](https://www.securden.com/customer-success-stories/password-management-across-locations.html)
+
+* [Recent Enterprise Password Breaches – January 2025 | Key Lessons Learnt & Strategies to Tackle](https://www.securden.com/blog/recent-password-breaches-jan-2025.html)
+
+* [How To Setup General Configuration Settings & Manage Product License Key](https://www.securden.com/knowledge-base/general-configuration-settings-pam.html)
+
+* [Managing Domain Account Permissions for Remote Password Resets | Unified PAM](https://www.securden.com/knowledge-base/how-to-manage-domain-account-permissions-for-password-resets-in-pam.html)
+
+* [How To Configure Two Factor Authentication (2FA) In PAM | Securden Unified PAM](https://www.securden.com/knowledge-base/configure-two-factor-authentication-2fa-securden-pam.html)
+
+* [How To Create And Manage Account Types And Password Policies In PAM | Securden Unified PAM](https://www.securden.com/knowledge-base/create-manage-account-types-password-policies-pam.html)
+
+* [How To Setup Device Level Configurations In Privileged Account Manager (Pam)](https://www.securden.com/knowledge-base/setup-device-level-configurations-pam.html)
+
+* [How To Create Custom Ssh Template For Password Reset & Verification](https://www.securden.com/knowledge-base/custom-ssh-templates-password-reset-verification.html)
+
+* [How To Setup Event Listeners In Privileged Account Manager](https://www.securden.com/knowledge-base/event-listener-privileged-account-management.html)
+
+* [How To Configure Event Notifications In Pam | Securden](https://www.securden.com/knowledge-base/configure-event-notifications-pam.html)
+
+* [How To Configure Password Expiration Notification in PAM | Securden Unified Pam](https://www.securden.com/knowledge-base/configure-password-expiration-notification.html)
+
+* [How To Configure Expiration Notification For Accounts, Keys And Certificates In Pam](https://www.securden.com/knowledge-base/configure-account-key-certificate-expiration-notification-pam.html)
+
+* [How To Enable Breached Password Identification & Notification | Securden Pam](https://www.securden.com/knowledge-base/configure-breached-password-identification-notification.html)
+
+* [How To Configure Automated Password Rotation Or Reset Expired Passwords In PAM | Securden Unified PAM](https://www.securden.com/knowledge-base/automated-expired-password-reset-rotation.html)
+
+* [How To Create Authentication Tokens And Construct Urls For API Access In PAM](https://www.securden.com/knowledge-base/create-authentication-tokens-urls-apis-program-access.html)
+
+* [How To Create Remote Gateways To Manage Privileged Accounts In Distributed Networks](https://www.securden.com/knowledge-base/manage-privileged-accounts-distributed-networks.html)
+
+* [How to Configure Privileged Session Recording and Monitoring in PAM | Securden Unified PAM](https://www.securden.com/knowledge-base/configure-privileged-session-recording-monitoring.html)
+
+* [How To Integrate Secuden Pam With Other Enterprise Applications](https://www.securden.com/knowledge-base/integrate-securden-pam-enterprise-applications.html)
+
+* [How To Customize Features In Your Privileged Account Manager | Securden Pam](https://www.securden.com/knowledge-base/customize-features-privileged-account-manager-pam.html)
+
+* [How To Create Technician Access Policies In Privileged Account Manager](https://www.securden.com/knowledge-base/technician-access-policies-privileged-account-management.html)
+
+* [How To Setup Security Settings In Securden Pam](https://www.securden.com/knowledge-base/security-settings-pam.html)
+
+* [How To Configure Emergency Access In Securden Pam](https://www.securden.com/knowledge-base/configure-emergency-access-pam.html)
+
+* [How To Configure Application Servers For Distributed Networks | Securden](https://www.securden.com/knowledge-base/configure-application-servers-distributed-networks-pam.html)
+
+* [Careers At Securden | Opportunities in Cybersecurity](https://www.securden.com/careers/index.html)
+
+* [Product Marketing Manager | Careers At Securden](https://www.securden.com/careers/product-marketing.html)
+
+* [Python Django Developer | Careers At Securden](https://www.securden.com/careers/python-developers.html)
+
+* [Presales / Technical Support Engineer | Careers At Securden](https://www.securden.com/careers/presales-technical-support.html)
+
+* [Customer Success Specialist | Careers At Securden](https://www.securden.com/careers/customer-success-specialist.html)
+
+* [Demand Generation Lead(SEM) | Careers At Securden](https://www.securden.com/careers/demand-generation-lead.html)
+
+* [Renewal Sales Executive | Careers At Securden](https://www.securden.com/careers/renewal-sales-executive.html)
+
+* [Accounts Receivable Executive | Careers At Securden](https://www.securden.com/careers/accounts-receivable-executive.html)
+
+* [Talent Acquisition Specialist | Careers At Securden](https://www.securden.com/careers/talent-acquisition-specialist.html)
+
+* [CMMC Compliance & Requirements | Securden Unified PAM](https://www.securden.com/privileged-account-manager/resources/cmmc-compliance-pam.html)
+
+* [How to Troubleshoot 'Domain Controller Not Reachable' Issues? | Securden Unified PAM](https://www.securden.com/knowledge-base/how-to-troubleshoot-domain-controller-not-reachable-issues-for-pam.html)
+
+* [How to Initiate Remote Connections with Remote Desktop Connection Manager (RDCMan) in PAM | Securden Unified PAM](https://www.securden.com/knowledge-base/how-to-initiate-remote-connections-with-rdcman-in-pam.html)
+
+* [How to Launch a Custom Web Application with Securden Session Manager (SSM) in Unified PAM?](https://www.securden.com/knowledge-base/how-to-launch-a-custom-web-application-with-securden-session-manager-in-pam.html)
+
+* [AWS Infrastructure Specialist | Careers At Securden](https://www.securden.com/careers/aws-infrastructure-specialist.html)
+
+* [How to Remove Admin Rights Without Losing Employee Productivity? | Securden](https://www.securden.com/blog/remove-admin-rights.html)
+
+* [How are Enterprises and Large Organizations Managing Local Admin Rights?](https://www.securden.com/blog/how-do-enterprises-and-large-organizations-manage-local-admin-rights.html)
+
+* [What is the Digital Operational Resilience Act (DORA)?](https://www.securden.com/blog/why-financial-firms-need-to-comply-with-dora.html)
+
+* [Swiss Media Leader Streamlines Password Management with Securden](https://www.securden.com/customer-success-stories/swiss-media-streamlines-password-management-using-securden-password-vault-for-enterprises.html)
+
+* [Top Arcon Alternative 2026 | Securden vs Arcon – PAM Comparison](https://www.securden.com/privileged-account-manager/arcon-pam-alternative.html)
+
+* [Password Manager Pricing Overview: Compare Top Solutions in 2026](https://www.securden.com/blog/password-manager-pricing.html)
+
+* [15 Password Management Best Practices for 2026](https://www.securden.com/blog/password-management-best-practices.html)
+
+* [Privileged Access Management Checklist for 2026 | Securden](https://www.securden.com/blog/pam-checklist.html)
+
+* [Enterprise Password Manager Evaluation Guide 2026: Checklist, Features, Comparison & Red Flags](https://www.securden.com/blog/enterprise-password-manager-evaluation-guide-2026.html)
+
+* [Top 6 Privileged Access Management (PAM) Tools in 2026](https://www.securden.com/blog/top-privileged-access-management-software-tools.html)
+
+* [Evolution of Password Managers: From Storage Vaults to Complete Identity Security | Securden (Updated 2026)](https://www.securden.com/blog/evolution-of-password-manager-storage-to-identity-security.html)
+
+* [Non-Human Identities (NHI) Demo Request](https://www.securden.com/identity-security/non-human-identity-security/demo-request.html)
+
+* [Privileged Access Management Pricing | Securden Unified PAM](https://www.securden.com/identity-security/non-human-identity-security/get-quote.html)
+
+* [Identity Governance & Administration (IGA) Demo Request | Identity Governance & Administration (IGA)](https://www.securden.com/identity-security/identity-governance-and-administration/demo-request.html)
+
+* [Privileged Access Management Pricing | Securden Unified PAM](https://www.securden.com/identity-security/identity-governance-and-administration/get-quote.html)
+
+* [What is URL Filtering?, How it Works? What are its Benefits? | Securden EPM](https://www.securden.com/endpoint-privilege-manager/features/what-is-url-filtering.html)
+
+* [Privilege Elevation Policies | Securden Endpoint Privilege Manager](https://www.securden.com/endpoint-privilege-manager/features/privilege-elevation-policies.html)
+
+* [Discover Applications from Endpoints | Securden Endpoint Privilege Manager](https://www.securden.com/endpoint-privilege-manager/features/discover-applications-for-controlling-access-and-enforcing-least-privilege.html)
+
+* [Password Manager for IT Teams | Centralized Vaulting, Role-Based Access, & Just-In-Time Provisioning](https://www.securden.com/blog/password-manager-it-teams.html)
+
+* [Enterprise Password Manager & Compliance Regulations: A Technical Guide (Updated 2026)](https://www.securden.com/blog/enterprise-password-manager-compliance-regulations.html)
+
+* [Just-in-Time Admin Access: Enforce the Principle of Least Privilege](https://www.securden.com/blog/just-in-time-admin-rights-for-principle-of-least-privilege.html)
+
+* [Self-Hosted vs Cloud Password Managers: Pros, Cons, and Best Fit for your Organization (2026 Guide)](https://www.securden.com/blog/self-hosted-vs-cloud-password-manager.html)
+
+* [Password Manager vs PAM Solution: How to Choose, Integrate & Run a PoC (Updated 2026)](https://www.securden.com/blog/password-manager-vs-pam-solution-evaluation.html)
+
+* [Password Manager vs PAM Solution: How to Choose, Integrate & Run a PoC (Updated 2026)](https://www.securden.com/blog/password-manager-vs-pam-solution-evaluation.html)
+
+* [Shared Password Management: Why a Password Manager is Critical to Mitigate Risks (2026 Guide)](https://www.securden.com/blog/shared-password-risks-enterprise-password-management.html)
+
+* [Standing Admin Rights: Security Risks, Threats, and Productivity Challenges](https://www.securden.com/blog/principle-of-least-privilege-and-standing-admin-rights-risks.html)
+
+* [Globally Distributed Technology Organization Transforms Privileged Access with Securden](https://www.securden.com/customer-success-stories/tech-organization-unifies-access-control-and-endpoint-privileges-with-pam.html)
+
+* [AI Security Demo Request](https://www.securden.com/identity-security/ai-agent-governance-security/demo-request.html)
+
+* [AI Security Demo Request](https://www.securden.com/identity-security/ai-agent-governance-security/demo-request.html)
+
+* [What is password management, its types, benefits, best practices?](https://www.securden.com/educational/what-is-password-management.html)
+
+* [What is Secure Remote Access? Benefits, Best Practices, and Use Cases](https://www.securden.com/educational/what-is-secure-remote-access.html)
+
+* [What is role-based access control? (RBAC) | A comprehensive guide](https://www.securden.com/educational/role-based-access-control.html)
+
+* [PAM vs Password Manager: Which Security Solution is the Best?](https://www.securden.com/educational/pam-vs-password-manager.html)
+
+* [What is Cloud Infrastructure Security? Best Practices in 2026](https://www.securden.com/educational/cloud-infrastructure-security.html)
+
+* [PIM vs PAM: Which Solution is Right for Your Business?](https://www.securden.com/educational/pim-vs-pam.html)
+
+* [What is Policy-Based Access Control (PBAC)? | Securden](https://www.securden.com/educational/policy-based-access-control.html)
+
+* [What Are Zero Standing Privileges (ZSP)? A Complete Guide](https://www.securden.com/educational/zero-standing-privileges.html)
+
+* [Granular Access Control: Meaning, Benefits & Best Practices](https://www.securden.com/educational/granular-access-control.html)
+
+* [10 Cyber Insurance Requirements Every Business Must Know](https://www.securden.com/educational/cyber-insurance-requirements.html)
+
+* [Your Guide to Privileged Password Management](https://www.securden.com/educational/privileged-password-management.html)
+
+* [Your Guide to PAW (Privileged Access Workstation)](https://www.securden.com/educational/privileged-access-workstation.html)
+
+* [What is Zero Trust Security? Principles and Best Practices](https://www.securden.com/educational/zero-trust-security.html)
+
+* [Privileged Account Management: Benefits & Best Practices](https://www.securden.com/educational/privileged-account-management.html)
+
+* [IAM vs PAM: Key Differences and Choosing the Right Solution](https://www.securden.com/educational/iam-vs-pam.html)
+
+* [What Are Zero Standing Privileges (ZSP)? A Complete Guide](https://www.securden.com/educational/zero-standing-privileges.html)
+
+* [What is Application Control? Techniques, Process, & Benefits](https://www.securden.com/educational/application-control.html)
+
+* [Access Control: Types, Benefits, Challenges & Solutions](https://www.securden.com/educational/access-control.html)
+
+* [An In-depth Guide to Privileged Identity Management|Securden](https://www.securden.com/educational/privileged-identity-management.html)
+
+* [What is Dynamic Access Control (DAC)? A Guide](https://www.securden.com/educational/dynamic-access-control.html)
+
+* [What is Automated Provisioning? A Comprehensive Guide](https://www.securden.com/educational/automated-provisioning.html)
+
+* [What is Application Whitelisting? A Complete Guide](https://www.securden.com/educational/application-whitelisting.html)
+
+* [What is Continuous Monitoring? How It Works & Why It Matters](https://www.securden.com/educational/continuous-monitoring.html)
+
+* [What is Credential Stuffing? A Complete Guide | Securden](https://www.securden.com/educational/credential-stuffing.html)
+
+* [What Are Admin Rights? Risks, Best Practices, & Secure Management](https://www.securden.com/educational/admin-rights.html)
+
+* [What is Zero Trust Network Access (ZTNA)? | Securden](https://www.securden.com/educational/zero-trust-network-access.html)
+
+* [What is Third-Party Access Management?](https://www.securden.com/educational/third-party-access-management.html)
+
+* [What is Cloud Infrastructure Entitlement Management (CIEM)? | Securden](https://www.securden.com/educational/cloud-infrastructure-entitlement-management-ciem.html)
+
+* [What Is Password Rotation? Benefits & Best Practices](https://www.securden.com/educational/password-rotation.html)
+
+* [What Is Machine Identity Management? | A Securden Guide](https://www.securden.com/educational/machine-identity-management.html)
+
+* [What is Privileged Access Management (PAM)?](https://www.securden.com/educational/privileged-access-management.html)
+
+* [Your Guide to Enterprise Secrets Management](https://www.securden.com/educational/secrets-management-guide.html)
+
+* [Service Account Management 101: A Practical Guide](https://www.securden.com/educational/service-account-management.html)
+
+* [What is Active Directory Integration? A Guide](https://www.securden.com/educational/active-directory-integration.html)
+
+* [PAM for Non-Human, Machine Identities (NHI) | Securden Unified PAM](https://www.securden.com/educational/what-are-non-human-identities.html)
+
+* [Guide to Identity Threat Detection & Response | Securden PAM](https://www.securden.com/educational/identity-threat-detection-and-response-itdr.html)
+
+* [What is NIST Compliance? (2026 Definitive Guide + Checklist)](https://www.securden.com/educational/nist-compliance-guide.html)
+
+* [What is User Account Control (UAC)? | Securden EPM](https://www.securden.com/educational/user-account-control.html)
+
+* [What is Privileged Session Management (PSM)? How Does IT Work?](https://www.securden.com/educational/privileged-session-management.html)
+
+* [What is Privileged Access Governance (PAG)? | Securden](https://www.securden.com/educational/privileged-access-governance.html)
+
+* [What is Password Spraying? Signs, Examples, and Tips](https://www.securden.com/educational/password-spraying.html)
+
+* [What is Robotic Process Automation (RPA)? | Securden](https://www.securden.com/educational/robotic-process-automation.html)
+
+* [What is User and Entity Behavior Analytics (UEBA)? A Guide](https://www.securden.com/educational/user-and-entity-behavior-analytics.html)
+
+* [Top 7 Offline Password Managers for Password Storage](https://www.securden.com/educational/offline-password-managers.html)
+
+* [What Is Machine Identity Management? | A Securden Guide](https://www.securden.com/educational/machine-identity-management.html)
+
+* [What Is Password Rotation? Benefits & Best Practices](https://www.securden.com/educational/password-rotation.html)
+
+* [What is Cloud Infrastructure Entitlement Management (CIEM)? | Securden](https://www.securden.com/educational/cloud-infrastructure-entitlement-management-ciem.html)
+
+* [What is Third-Party Access Management?](https://www.securden.com/educational/third-party-access-management.html)
+
+* [What Are Admin Rights? Risks, Best Practices, & Secure Management](https://www.securden.com/educational/admin-rights.html)
+
+* [What is Credential Stuffing? A Complete Guide | Securden](https://www.securden.com/educational/credential-stuffing.html)
+
+* [What is Credential Stuffing? A Complete Guide | Securden](https://www.securden.com/educational/credential-stuffing.html)
+
+* [Privileged Access Management for Linux and Unix](https://www.securden.com/educational/linux-unix-privileged-access-management.html)
+
+* [How to enable ephemeral access | Unified PAM](https://www.securden.com/privileged-access-management/help/configure-the-remote-gateway/how-to-enable-ephemeral-access-in-pam.html)
+
+* [Overview of Vendor Access Management in Securden Unified PAM](https://www.securden.com/privileged-access-management/help/vendor-access-management/overview.html)
+
+* [How to Configure Vendor Access in Securden Unified PAM](https://www.securden.com/privileged-access-management/help/vendor-access-management/how-to-configure-vendor-access-in-unified-pam.html)
+
+* [Onboarding Vendors in Securden Unified PAM](https://www.securden.com/privileged-access-management/help/vendor-access-management/how-to-onboard-vendors-in-unified-pam.html)
+
+* [Accessing Vendor Details in Securden Unified PAM](https://www.securden.com/privileged-access-management/help/vendor-access-management/how-to-access-the-vendor-details-in-unified-pam.html)
+
+* [Creating and Managing Vendor Groups in Securden Unified PAM](https://www.securden.com/privileged-access-management/help/vendor-access-management/how-to-create-and-manage-vendor-groups-in-unified-pam.html)
+
+* [Providing Resource Access to Vendors in Securden Unified PAM](https://www.securden.com/privileged-access-management/help/vendor-access-management/how-to-provide-vendors-with-access-to-resources-in-unified-pam.html)
+
+* [Configuring Just-in-Time Workflow in Securden Unified PAM](https://www.securden.com/privileged-access-management/help/vendor-access-management/how-to-configure-just-in-time-workflow-in-unified-pam.html)
+
+* [How to Deactivate the Vendor Access Portal in Securden Unified PAM](https://www.securden.com/privileged-access-management/help/vendor-access-management/how-to-deactivate-the-vendor-access-portal-in-unified-pam.html)
+
+* [Accessing the Vendor Login Page in Securden Unified PAM](https://www.securden.com/privileged-access-management/help/vendor-access-management/how-to-access-the-vendor-login-page-in-unified-pam.html)
+
+* [Account Management - Configurations  | Securden Unified PAM](http://www.securden.com/privileged-access-management/help/configurations/account-management/general.html)
+
+* [Access Control - Administrator Guide](http://www.securden.com/privileged-access-management/help/configurations/account-management/access-control.html)
+
+* [Ephemeral Access - Administrator Guide](http://www.securden.com/privileged-access-management/help/configurations/remote-connections/ephemeral-access.html)
+
+* [Access Control - Administrator Guide](http://www.securden.com/privileged-access-management/help/configurations/account-management/access-control.html)
+
+* [Personal Accounts - Administrator Guide](http://www.securden.com/privileged-access-management/help/configurations/account-management/personal-accounts.html)
+
+* [Providing Account Access to Vendors in Securden Unified PAM](https://www.securden.com/privileged-access-management/help/vendor-access-management/how-to-provide-access-to-accounts-for-vendors-in-unified-pam.html)
+
+* [Managing Shared Accounts and Privileged Credentials | Unified PAM](https://www.securden.com/privileged-account-manager/use-cases/shared-accounts-and-privileged-credentials.html)
+
+* [PAM Implementation Guide | Securden Unified PAM](https://www.securden.com/privileged-access-management/implementation-guide/index.html)
+
+* [PAM Architecture | Securden Unified PAM](https://www.securden.com/privileged-access-management/implementation-guide/pam-architecture.html)
+
+* [PAM Deployment Prerequisites | Securden Unified PAM](https://www.securden.com/privileged-access-management/implementation-guide/pam-deployment-prerequisites.html)
+
+* [PAM Implementation Essentials | Securden Unified PAM](https://www.securden.com/privileged-access-management/implementation-guide/pam-implementation-essentials.html)
+
+* [PAM Implementation Phases | Securden Unified PAM](https://www.securden.com/privileged-access-management/implementation-guide/pam-implementation-phases.html)
+
+* [PAM Strategy | Securden Unified PAM](https://www.securden.com/privileged-access-management/implementation-guide/pam-strategy.html)
+
+* [Ports Involved In PAM Configuration | Securden Unified PAM](https://www.securden.com/privileged-access-management/implementation-guide/ports-involved-in-pam-configuration.html)
+
+* [Recommended PAM System Configurations | Securden Unified PAM](https://www.securden.com/privileged-access-management/implementation-guide/recommended-pam-system-configurations.html)
+
+* [Unified PAM Cloud - Security Design and Specifications](https://www.securden.com/privileged-access-management/cloud/index.html)
+
+* [Unified PAM - Deployment Guide](https://www.securden.com/privileged-access-management/deployment-guide/index.html)
+
+* [Deployment Prerequisites - Unified PAM - Deployment Guide](https://www.securden.com/privileged-access-management/deployment-guide/deployment-prerequisites.html)
+
+* [Implementation Checklist - Unified PAM - Deployment Guide](https://www.securden.com/privileged-access-management/deployment-guide/implementation-checklist.html)
+
+* [Securden Unified PAM Architecture - Unified PAM - Deployment Guide](https://www.securden.com/privileged-access-management/deployment-guide/pam-architecture.html)
+
+* [Ports Used - Unified PAM - Deployment Guide](https://www.securden.com/privileged-access-management/deployment-guide/ports-involved-in-pam-deployment.html)
+
+* [Recommended System Configurations - Unified PAM - Deployment Guide](https://www.securden.com/privileged-access-management/deployment-guide/recommended-system-configurations-for-pam-deployment.html)
+
+* [Top 10 Privileged Access Management Use Cases | Unified PAM](https://www.securden.com/privileged-account-manager/use-cases/index.html)
+
+* [Manage Application Passwords | Securden Unified PAM](https://www.securden.com/privileged-account-manager/use-cases/application-password-management.html)
+
+* [Establishing Ownership for Privileged Accounts | Unified PAM](https://www.securden.com/privileged-account-manager/use-cases/establishing-ownership-for-privileged-accounts.html)
+
+* [Share Privileged Accounts with Granular Permissions | Unified PAM](https://www.securden.com/privileged-account-manager/use-cases/granular-access-permissions-for-privileged-accounts.html)
+
+* [Granular, Just-in-time Access | Securden Unified PAM](https://www.securden.com/privileged-account-manager/use-cases/just-in-time-access.html)
+
+* [Organizing Password and Keys into Folders | Unified PAM](https://www.securden.com/privileged-account-manager/use-cases/password-organization-management.html)
+
+* [Real Time Monitoring of Privileged Sessions | Unified PAM](https://www.securden.com/privileged-account-manager/use-cases/real-time-privileged-session-monitoring.html)
+
+* [Remote Password Reset for Privileged Accounts | Unified PAM](https://www.securden.com/privileged-account-manager/use-cases/remote-password-reset-for-privileged-accounts.html)
+
+* [Role-based Access Control | Securden Unified PAM](https://www.securden.com/privileged-account-manager/use-cases/role-based-access-control.html)
+
+* [Secure Remote Access | Unified PAM](https://www.securden.com/privileged-account-manager/use-cases/secure-remote-access.html)
+
+* [PAM Security Design And Specifications | Securden Unified PAM](https://www.securden.com/privileged-access-management/security-design-and-specifications/index.html)
+
+* [PAM Security And Server Hardening | Securden Unified PAM](https://www.securden.com/privileged-access-management/security-and-server-hardening-guide/index.html)
+
+* [General Hardening Tasks | Securden Unified PAM](https://www.securden.com/privileged-access-management/security-and-server-hardening-guide/general-hardening-tasks.html)
+
+* [Hardening At The Application Level | Securden Unified PAM](https://www.securden.com/privileged-access-management/security-and-server-hardening-guide/hardening-at-the-application-level.html)
+
+* [Steps To Harden Application Servers In PAM | Securden Unified PAM](https://www.securden.com/privileged-access-management/security-and-server-hardening-guide/steps-to-harden-application-servers-in-pam.html)
+
+* [Steps To Harden The Network | Securden Unified PAM](https://www.securden.com/privileged-access-management/security-and-server-hardening-guide/steps-to-harden-the-network.html)
+
+* [Steps To Harden The Primary Server In PAM | Securden Unified PAM](https://www.securden.com/privileged-access-management/security-and-server-hardening-guide/steps-to-harden-the-primary-server-in-pam.html)
+
+* [Unified PAM](https://www.securden.com/privileged-access-management/help/index.html)
+
+* [How to Add Accounts Manually in PAM | Securden Unified PAM Administrator Guide](https://www.securden.com/privileged-access-management/help/account-management/how-to-add-accounts-manually-in-pam.html)
+
+* [How to Add and Manage Account Types in PAM | Securden Unified PAM Administrator Guide](https://www.securden.com/privileged-access-management/help/account-management/how-to-add-and-manage-account-types-in-pam.html)
+
+* [How to Add and Manage SSH Keys in PAM | Securden Unified PAM Administrator Guide](https://www.securden.com/privileged-access-management/help/account-management/how-to-add-and-manage-ssh-keys-in-pam.html)
+
+* [How to Add Documents and Files in PAM | Securden Unified PAM Administrator Guide](https://www.securden.com/privileged-access-management/help/account-management/how-to-add-documents-and-files-in-pam.html)
+
+* [How to Configure Just in Time Access Through Approval Workflow in PAM | Securden Unified PAM Administrator Guide](https://www.securden.com/privileged-access-management/help/account-management/how-to-configure-just-in-time-access-through-approval-workflow-in-pam.html)
+
+* [How to Configure Shared MFA Tokens in PAM | Securden Unified PAM Administrator Guide](https://www.securden.com/privileged-access-management/help/account-management/how-to-configure-shared-mfa-tokens-in-pam.html)
+
+* [How to discover privileged accounts from Cisco IOS devices | Securden Unified PAM Admin Guide](https://www.securden.com/privileged-access-management/help/account-management/how-to-discover-privileged-accounts-from-cisco-ios-devices.html)
+
+* [How to discover privileged accounts on Linux devices | Securden Unified PAM Admin Guide](https://www.securden.com/privileged-access-management/help/account-management/how-to-discover-privileged-accounts-on-linux-devices.html)
+
+* [How to discover privileged accounts on Mac devices | Securden Unified PAM Admin Guide](https://www.securden.com/privileged-access-management/help/account-management/how-to-discover-privileged-accounts-on-mac-devices.html)
+
+* [How to discover privileged accounts | Securden Unified PAM Admin Guide](https://www.securden.com/privileged-access-management/help/account-management/how-to-discover-privileged-accounts.html)
+
+* [How to Enforce Ticketing System Validation in PAM | Securden Unified PAM Administrator Guide](https://www.securden.com/privileged-access-management/help/account-management/how-to-enforce-ticketing-system-validation-in-pam.html)
+
+* [How to Import Accounts from CSV/XLSX Files in PAM | Securden Unified PAM Administrator Guide](https://www.securden.com/privileged-access-management/help/account-management/how-to-import-accounts-from-csv-xlsx-files-in-pam.html)
+
+* [How to Import Accounts from KeePass in PAM | Securden Unified PAM Administrator Guide](https://www.securden.com/privileged-access-management/help/account-management/how-to-import-accounts-from-keepass-in-pam.html)
+
+* [How to Launch Connections to Thick Client Applications in PAM | Securden Unified PAM Administrator Guide](https://www.securden.com/privileged-access-management/help/account-management/how-to-launch-connections-to-thick-application-clients-in-pam.html)
+
+* [How to Launch Native RDP Connections in PAM | Securden Unified PAM Administrator Guide](https://www.securden.com/privileged-access-management/help/account-management/how-to-launch-native-rdp-connections-in-pam.html)
+
+* [How to Launch Native SQL Connections in PAM | Securden Unified PAM Administrator Guide](https://www.securden.com/privileged-access-management/help/account-management/how-to-launch-native-sql-connections-in-pam.html)
+
+* [How to Launch Native SSH Connections in PAM | Securden Unified PAM Administrator Guide](https://www.securden.com/privileged-access-management/help/account-management/how-to-launch-native-ssh-connections-in-pam.html)
+
+* [How to Launch Remote Connections in PAM | Securden Unified PAM Administrator Guide](https://www.securden.com/privileged-access-management/help/account-management/how-to-launch-remote-connections-in-pam.html)
+
+* [How to Manage Passwords for Accounts in PAM | Securden Unified PAM Administrator Guide](https://www.securden.com/privileged-access-management/help/account-management/how-to-manage-passwords-for-accounts-in-pam.html)
+
+* [How to Manage Windows Dependencies and Service Accounts in PAM | Securden Unified PAM Administrator Guide](https://www.securden.com/privileged-access-management/help/account-management/how-to-manage-windows-dependencies-and-service-accounts-in-pam.html)
+
+* [How to Perform Account Actions in PAM | Securden Unified PAM Administrator Guide](https://www.securden.com/privileged-access-management/help/account-management/how-to-perform-account-actions-in-pam.html)
+
+* [How to Perform Operations on Multiple Accounts in PAM | Securden Unified PAM Administrator Guide](https://www.securden.com/privileged-access-management/help/account-management/how-to-perform-operations-on-multiple-accounts-in-pam.html)
+
+* [How to Share Accounts or Passwords with Third Parties in PAM | Securden Unified PAM Administrator Guide](https://www.securden.com/privileged-access-management/help/account-management/how-to-share-accounts-or-passwords-with-third-parties-in-pam.html)
+
+* [How to Share Accounts with Users and Groups in PAM | Securden Unified PAM Administrator Guide](https://www.securden.com/privileged-access-management/help/account-management/how-to-share-accounts-with-users-and-groups-in-pam.html)
+
+* [How to View and Manage Account Reports in PAM | Securden Unified PAM Administrator Guide](https://www.securden.com/privileged-access-management/help/account-management/how-to-view-and-manage-account-reports-in-pam.html)
+
+* [How to discover privileged accounts from MySQL database | Securden Unified PAM Admin Guide](https://www.securden.com/privileged-access-management/help/account-management/discovering-privileged-accounts-from-databases/how-to-discover-privileged-accounts-from-mysql-database.html)
+
+* [How to discover privileged accounts from Oracle database | Securden Unified PAM Admin Guide](https://www.securden.com/privileged-access-management/help/account-management/discovering-privileged-accounts-from-databases/how-to-discover-privileged-accounts-from-oracle-database.html)
+
+* [How to discover privileged accounts from PostgreSQL database | Securden Unified PAM Admin Guide](https://www.securden.com/privileged-access-management/help/account-management/discovering-privileged-accounts-from-databases/how-to-discover-privileged-accounts-from-postgresql-database.html)
+
+* [How to discover privileged accounts from SQL servers | Securden Unified PAM Admin Guide](https://www.securden.com/privileged-access-management/help/account-management/discovering-privileged-accounts-from-databases/how-to-discover-privileged-accounts-from-sql-database.html)
+
+* [How to import privileged accounts from Windows devices – Advanced settings | Securden Unified PAM Admin Guide](https://www.securden.com/privileged-access-management/help/account-management/discovering-privileged-accounts-on-windows-devices/advanced-settings.html)
+
+* [How to import privileged accounts from Windows devices | Securden Unified PAM Admin Guide](https://www.securden.com/privileged-access-management/help/account-management/discovering-privileged-accounts-on-windows-devices/how-to-import-privileged-accounts-from-windows-devices.html)
+
+* [How to manage Windows service accounts and dependencies | Securden Unified PAM Admin Guide](https://www.securden.com/privileged-access-management/help/account-management/discovering-privileged-accounts-on-windows-devices/how-to-manage-windows-service-accounts-and-dependencies.html)
+
+* [How to run account discovery on Windows devices | Securden Unified PAM Admin Guide](https://www.securden.com/privileged-access-management/help/account-management/discovering-privileged-accounts-on-windows-devices/how-to-run-discovery-on-windows-servers.html)
+
+* [How to eliminate hardcoded credentials using APIs | Securden Unified PAM Administrator Guide](https://www.securden.com/privileged-access-management/help/api-access/how-to-eliminate-hardcoded-credentials-using-apis-in-pam.html)
+
+* [How to configure scheduled activities | Securden Unified PAM Administrator Guide](https://www.securden.com/privileged-access-management/help/audit-trails/how-to-configure-scheduled-activities-in-pam.html)
+
+* [How to export and schedule export | Securden Unified PAM Administrator Guide](https://www.securden.com/privileged-access-management/help/audit-trails/how-to-export-and-schedule-export-in-pam.html)
+
+* [How to schedule export of account and user activities | Securden Unified PAM Administrator Guide](https://www.securden.com/privileged-access-management/help/audit-trails/how-to-schedule-export-of-account-and-user-activities-in-pam.html)
+
+* [How to track account activities | Securden Unified PAM Administrator Guide](https://www.securden.com/privileged-access-management/help/audit-trails/how-to-track-account-activities-in-pam.html)
+
+* [How to track user activities | Securden Unified PAM Administrator Guide](https://www.securden.com/privileged-access-management/help/audit-trails/how-to-track-user-activities-in-pam.html)
+
+* [How audit trails work | Securden Unified PAM Administrator Guide](https://www.securden.com/privileged-access-management/help/audit-trails/what-are-audit-trails-in-pam.html)
+
+* [How to manage Session Activities | Securden Unified PAM Administrator Guide](https://www.securden.com/privileged-access-management/help/audit-trails/what-are-session-activities-in-pam.html)
+
+* [How to configure session recording | Securden Unified PAM Administrator Guide](https://www.securden.com/privileged-access-management/help/configure-session-recording/how-to-configure-session-recording-in-pam.html)
+
+* [How to monitor remote sessions | Securden Unified PAM Administrator Guide](https://www.securden.com/privileged-access-management/help/configure-session-recording/how-to-monitor-remote-sessions-in-pam.html)
+
+* [How to playback recorded sessions | Securden Unified PAM Administrator Guide](https://www.securden.com/privileged-access-management/help/configure-session-recording/how-to-playback-recorded-sessions-in-pam.html)
+
+* [How to purge recorded sessions | Securden Unified PAM Administrator Guide](https://www.securden.com/privileged-access-management/help/configure-session-recording/how-to-purge-recorded-sessions-in-pam.html)
+
+* [How to add assets for remote connections | Securden Unified PAM Administrator Guide](https://www.securden.com/privileged-access-management/help/configure-the-remote-gateway/how-to-add-assets-for-remote-connections-in-pam.html)
+
+* [Advanced Search and Filter Creation | Unified PAM](https://www.securden.com/privileged-access-management/help/configuring-advanced-search-and-filters.html)
+
+* [How to associate assets or applications with users | Securden Unified PAM Administrator Guide](https://www.securden.com/privileged-access-management/help/configure-the-remote-gateway/how-to-associate-assets-or-applications-with-users-in-pam.html)
+
+* [How to associate assets to domain accounts for remote connections | Securden Unified PAM Administrator Guide](https://www.securden.com/privileged-access-management/help/configure-the-remote-gateway/how-to-associate-assets-to-domain-accounts-for-remote-connections-in-pam.html)
+
+* [How to configure custom application launcher | Securden Unified PAM Administrator Guide](https://www.securden.com/privileged-access-management/help/configure-the-remote-gateway/how-to-configure-custom-application-launcher-in-pam.html)
+
+* [How to create a remote gateway | Securden Unified PAM Administrator Guide](https://www.securden.com/privileged-access-management/help/configure-the-remote-gateway/how-to-create-a-remote-gateway-in-pam.html)
+
+* [How To Enforce Multi Factor Authentication in PAM | Securden Unified PAM Admin Guide](https://www.securden.com/privileged-access-management/help/configuring-two-step-verification/how-to-enforce-two-factor-authentication-mfa.html)
+
+* [How To Integrate Duo Authentication With PAM | Securden Unified PAM Admin Guide](https://www.securden.com/privileged-access-management/help/configuring-two-step-verification/how-to-integrate-duo-authentication-with-securden.html)
+
+* [How To Integrate Email To Sms Gateway With PAM | Securden Unified PAM Admin Guide](https://www.securden.com/privileged-access-management/help/configuring-two-step-verification/how-to-integrate-email-to-sms-gateway-with-securden.html)
+
+* [How To Integrate Radius Authentication With PAM | Securden Unified PAM Admin Guide](https://www.securden.com/privileged-access-management/help/configuring-two-step-verification/how-to-integrate-radius-authentication-with-securden.html)
+
+* [How To Integrate Smart Card Authenticatin With PAM | Securden Unified PAM Admin Guide](https://www.securden.com/privileged-access-management/help/configuring-two-step-verification/how-to-integrate-smart-card-authenticatin-with-securden.html)
+
+* [How To Integrate Yubikey With PAM | Securden Unified PAM Admin Guide](https://www.securden.com/privileged-access-management/help/configuring-two-step-verification/how-to-integrate-yubikey-with-securden.html)
+
+* [How to Customize Privileged Access Manager | Securden Unified PAM Admin](https://www.securden.com/privileged-access-management/help/customization/how-to-customize-pam.html)
+
+* [How to Customize the Login Page in Privileged Access Manager | Securden Unified PAM Admin](https://www.securden.com/privileged-access-management/help/customization/how-to-customize-the-login-page-text-in-pam.html)
+
+* [How to Customize the Logo in Privileged Access Manager | Securden Unified PAM Administrator Guide](https://www.securden.com/privileged-access-management/help/customization/how-to-customize-the-logo-in-pam.html)
+
+* [How to Customize PAM Interface Text and Labels | Securden Unified PAM Admin](https://www.securden.com/privileged-access-management/help/customization/how-to-customize-the-text-and-labels-on-the-agent-interface-in-pam.html)
+
+* [How to Modify Configurations in Privileged Access Manager | Securden Unified PAM Admin](https://www.securden.com/privileged-access-management/help/customization/how-to-modify-configurations-in-pam.html)
+
+* [How to Modify PEDM Agent in Privileged Access Manager | Securden Unified PAM Admin](https://www.securden.com/privileged-access-management/help/customization/how-to-modify-the-agent-color-theme-in-pam.html)
+
+* [How to Change the Language in Privileged Access Manager | Securden Unified PAM Admin](https://www.securden.com/privileged-access-management/help/customization/how-to-modify-the-default-language-in-pam.html)
+
+* [How to Modify the Color Theme of Privileged Access Manager | Securden Unified PAM Admin](https://www.securden.com/privileged-access-management/help/customization/how-to-modify-the-web-interface-color-theme-in-pam.html)
+
+* [Backup Passwords As An Encrypted HTML File | Securden Unified PAM Administrator Guide](https://www.securden.com/privileged-access-management/help/disaster-recovery-settings/how-to-backup-passwords-as-an-encrypted-html-file.html)
+
+* [Getting A Database Backup | Securden Unified PAM Administrator Guide](https://www.securden.com/privileged-access-management/help/disaster-recovery-settings/how-to-get-a-database-backup.html)
+
+* [Remote Distributors | Securden Unified PAM Administrator Guide](https://www.securden.com/privileged-access-management/help/distributed-architecture/remote-distributors.html)
+
+* [Unix Connector | Securden Unified PAM Administrator Guide](https://www.securden.com/privileged-access-management/help/distributed-architecture/unix-connector.html)
+
+* [Configure Emergency Access | Securden Unified PAM Administrator Guide](https://www.securden.com/privileged-access-management/help/emergency-access-settings/how-to-configure-emergency-access.html)
+
+* [How to add folders manually | Securden Unified PAM Administrator Guide](https://www.securden.com/privileged-access-management/help/folder-management/how-to-add-folders-manually-in-pam.html)
+
+* [How to add subfolders | Securden Unified PAM Administrator Guide](https://www.securden.com/privileged-access-management/help/folder-management/how-to-add-subfolders-in-pam.html)
+
+* [How to configure approval workflow for folder | Securden Unified PAM Administrator Guide](https://www.securden.com/privileged-access-management/help/folder-management/how-to-configure-approval-workflow-for-folder-in-pam.html)
+
+* [How to configure automate periodic remote password resets for folders | Securden Unified PAM Administrator Guide](https://www.securden.com/privileged-access-management/help/folder-management/how-to-configure-automate-periodic-remote-password-resets-for-folders-in-pam.html)
+
+* [How to configure session recording at the folder | Securden Unified PAM Administrator Guide](https://www.securden.com/privileged-access-management/help/folder-management/how-to-configure-session-recording-at-the-folder-in-pam.html)
+
+* [How to enable and disable inheritance | Securden Unified PAM Administrator Guide](https://www.securden.com/privileged-access-management/help/folder-management/how-to-enable-and-disable-inheritance-in-pam.html)
+
+* [How to import folders from files | Securden Unified PAM Administrator Guide](https://www.securden.com/privileged-access-management/help/folder-management/how-to-import-folders-from-files-in-pam.html)
+
+* [How to share a folder | Securden Unified PAM Administrator Guide](https://www.securden.com/privileged-access-management/help/folder-management/how-to-share-folder-in-pam.html)
+
+* [PAM General Settings | Unified PAM](https://www.securden.com/privileged-access-management/help/general-configuration-settings/general-pam-configuration-settings.html)
+
+* [How To Configure Mail Server Settings | Unified PAM](https://www.securden.com/privileged-access-management/help/general-configuration-settings/how-to-configure-mail-server-settings-in-pam.html)
+
+* [How To Configure Proxy Server Settings | Unified PAM](https://www.securden.com/privileged-access-management/help/general-configuration-settings/how-to-configure-proxy-server-settings-in-pam.html)
+
+* [How To Configure Securden Server Connectivity | Unified PAM](https://www.securden.com/privileged-access-management/help/general-configuration-settings/how-to-configure-securden-server-connectivity-in-pam.html)
+
+* [How To Replace The Self-signed Certificates | Unified PAM](https://www.securden.com/privileged-access-management/help/general-configuration-settings/how-to-replace-self-signed-certificate-in-pam.html)
+
+* [How To Launch The Web Interface In PAM | Securden Unified PAM Admin Guide](https://www.securden.com/privileged-access-management/help/getting-started/how-to-launch-the-web-interface-in-pam.html)
+
+* [How To Start The Pam Service In Securden | Securden Unified PAM Admin Guide](https://www.securden.com/privileged-access-management/help/getting-started/how-to-start-the-pam-service.html)
+
+* [Configure High Availability With MS SQL Server As The Backend Database | Securden Unified PAM Administrator Guide](https://www.securden.com/privileged-access-management/help/high-availability/how-to-configure-high-availability-with-ms-sql-server-as-the-backend-database.html)
+
+* [Configure High Availability | Securden Unified PAM Administrator Guide](https://www.securden.com/privileged-access-management/help/high-availability/how-to-configure-high-availability.html)
+
+* [How To Change Backend Database In PAM | Securden Unified PAM Admin Guide](https://www.securden.com/privileged-access-management/help/miscellaneous/how-to-change-the-backend-database-in-pam.html)
+
+* [How To Configure Browser Extensions In PAM | Securden Unified PAM Admin Guide.](https://www.securden.com/privileged-access-management/help/miscellaneous/how-to-configure-browser-extensions-in-pam.html)
+
+* [How To Configure Hardware Security Module In Pam| Securden Unified PAM Admin Guide.](https://www.securden.com/privileged-access-management/help/miscellaneous/how-to-configure-hardware-security-module-in-pam.html)
+
+* [How To Migrate From Postgresql Database To Mssql Database In Pam | Securden Unified PAM Admin Guide](https://www.securden.com/privileged-access-management/help/miscellaneous/how-to-migrate-from-postgresql-database-to-mssql-database-in-pam.html)
+
+* [How To Move The Pam Installation From One Machine To Another | Securden Unified PAM Admin Guide](https://www.securden.com/privileged-access-management/help/miscellaneous/how-to-move-the-pam-installation-from-one-machine-to-another.html)
+
+* [How to configure account expiration notifications | Securden Unified PAM Administrator Guide](https://www.securden.com/privileged-access-management/help/notifications/how-to-configure-account-expiration-notifications.html)
+
+* [How to configure breached password identification | Securden Unified PAM Administrator Guide](https://www.securden.com/privileged-access-management/help/notifications/how-to-configure-breached-password-identification.html)
+
+* [How to configure event notifications | Securden Unified PAM Administrator Guide](https://www.securden.com/privileged-access-management/help/notifications/how-to-configure-event-notifications.html)
+
+* [How to configure expired password rotation | Securden Unified PAM Administrator Guide](https://www.securden.com/privileged-access-management/help/notifications/how-to-configure-expired-password-rotation.html)
+
+* [How to configure password expiration notifications | Securden Unified PAM Administrator Guide](https://www.securden.com/privileged-access-management/help/notifications/how-to-configure-password-expiration-notifications.html)
+
+* [How to create an event listener | Securden Unified PAM Administrator Guide](https://www.securden.com/privileged-access-management/help/notifications/how-to-create-an-event-listener.html)
+
+* [How To Add Users Manually | Unified PAM](https://www.securden.com/privileged-access-management/help/onboarding-users-to-pam/how-to-add-users-manually-in-pam.html)
+
+* [How To Import Users From Active Directory | Unified PAM](https://www.securden.com/privileged-access-management/help/onboarding-users-to-pam/how-to-import-users-from-active-directory-in-pam.html)
+
+* [How To Import Users from Entra ID (Azure AD) | Unified PAM](https://www.securden.com/privileged-access-management/help/onboarding-users-to-pam/how-to-import-users-from-azure-ad-in-pam.html)
+
+* [How To Import Users From Files |Unified PAM](https://www.securden.com/privileged-access-management/help/onboarding-users-to-pam/how-to-import-users-from-files-in-pam.html)
+
+* [How To Import Users from LDAP Compliant Directories | Unified PAM](https://www.securden.com/privileged-access-management/help/onboarding-users-to-pam/how-to-import-users-from-ldap-directory-in-pam.html)
+
+* [Onboarding Users| Unified PAM](https://www.securden.com/privileged-access-management/help/onboarding-users-to-pam/introduction-to-user-onboarding-in-pam.html)
+
+* [How To Apply The Licensce Key In PAM | Securden Unified PAM Admin Guide](https://www.securden.com/privileged-access-management/help/pam-license-key/how-to-apply-the-license-key-in-pam.html)
+
+* [Command Control on Linux Machines| Securden Unified PAM Admin](https://www.securden.com/privileged-access-management/help/privilege-elevation-and-delegation/how-to-create-linux-commands-policies.html)
+
+* [Controlling Applications on Mac Machines| Securden Unified PAM Admin](https://www.securden.com/privileged-access-management/help/privilege-elevation-and-delegation/how-to-create-mac-application-control-policies.html)
+
+* [Controlling Application Access for Technicians | Securden Unified PAM Admin](https://www.securden.com/privileged-access-management/help/privilege-elevation-and-delegation/how-to-create-technician-access-policies.html)
+
+* [Controlling Application Access on Windows Machines| Securden Unified PAM Admin](https://www.securden.com/privileged-access-management/help/privilege-elevation-and-delegation/how-to-create-windows-application-control-policies.html)
+
+* [Deploying The Privilege Management Agent in PAM| Securden Unified PAM Admin](https://www.securden.com/privileged-access-management/help/privilege-elevation-and-delegation/how-to-deploy-securden-pam-agent.html)
+
+* [Discovering Applications Processes And Commands | Securden Unified PAM Admin](https://www.securden.com/privileged-access-management/help/privilege-elevation-and-delegation/how-to-discover-applications-processes-commands.html)
+
+* [Removing Local Admin Rights| Securden Unified PAM Admin](https://www.securden.com/privileged-access-management/help/privilege-elevation-and-delegation/how-to-remove-local-admin-rights.html)
+
+* [Steps To Manage Endpoint Privileges | Securden Unified PAM Admin](https://www.securden.com/privileged-access-management/help/privilege-elevation-and-delegation/what-are-the-steps-involved.html)
+
+* [How To Create Account Activity Report In Pam | Unified PAM](https://www.securden.com/privileged-access-management/help/reports/how-to-create-account-activity-report-in-pam.html)
+
+* [How To Create Concise Reports In Pam | Securden Unified PAM Admin Guide](https://www.securden.com/privileged-access-management/help/reports/how-to-create-concise-reports-in-pam.html)
+
+* [How To Create Password Compliance Report In Pam | Securden Unified PAM Admin Guide](https://www.securden.com/privileged-access-management/help/reports/how-to-create-password-compliance-report-in-pam.html)
+
+* [How To Create Password Expiry Report In Pam | Securden Unified PAM Admin Guide](https://www.securden.com/privileged-access-management/help/reports/how-to-create-password-expiry-report-in-pam.html)
+
+* [How To Create Password Security Analysis Report In Pam | Securden Unified PAM Admin Guide](https://www.securden.com/privileged-access-management/help/reports/how-to-create-password-security-analysis-report-in-pam.html)
+
+* [How To Create Processes Inventory In Pam |Securden Unified PAM Admin Guide](https://www.securden.com/privileged-access-management/help/reports/how-to-create-processes-inventory-in-pam.html)
+
+* [How To Create Standard Reports In PAM | Securden Unified PAM Admin Guide](https://www.securden.com/privileged-access-management/help/reports/how-to-create-standard-reports-in-pam.html)
+
+* [How To Create User Access Report In Pam | Securden Unified PAM Admin Guide](https://www.securden.com/privileged-access-management/help/reports/how-to-create-user-access-report-in-pam.html)
+
+* [How To Create User Activities Report In Pam | Securden Unified PAM Admin Guide](https://www.securden.com/privileged-access-management/help/reports/how-to-create-user-activities-report-in-pam.html)
+
+* [How To Create Windows Accounts Dependencies Report In Pam | Securden Unified PAM Admin Guide](https://www.securden.com/privileged-access-management/help/reports/how-to-create-windows-accounts-dependencies-report-in-pam.html)
+
+* [PAM Reports Overview | Securden Unified PAM Admin Guide](https://www.securden.com/privileged-access-management/help/reports/reports-overview.html)
+
+* [How To Create Custom User Roles | Unified PAM](https://www.securden.com/privileged-access-management/help/role-based-access-controls/how-to-create-custom-user-roles-in-unified-pam.html)
+
+* [How To Configure Role Based Access Controls (RBAC) | Unified PAM](https://www.securden.com/privileged-access-management/help/role-based-access-controls/introduction-to-user-roles-in-pam.html)
+
+* [How To Configure Default Roles in Privileged Access Manager | Unified PAM](https://www.securden.com/privileged-access-management/help/role-based-access-controls/what-are-the-default-roles-in-unified-pam.html)
+
+* [Block Acess Through API, Extensions, And Mobile Apps | Securden Unified PAM Administrator Guide](https://www.securden.com/privileged-access-management/help/security-settings/how-to-block-access-through-api-extensions-mobile-apps.html)
+
+* [Change The Encyryption Key Location | Securden Unified PAM Administrator Guide](https://www.securden.com/privileged-access-management/help/security-settings/how-to-change-the-encryption-key-location.html)
+
+* [Monitor Changes To Domain Admin Groups | Securden Unified PAM Administrator Guide](https://www.securden.com/privileged-access-management/help/security-settings/how-to-monitor-changes-to-domain-admin-groups.html)
+
+* [Restrict IP Address | Securden Unified PAM Administrator Guide](https://www.securden.com/privileged-access-management/help/security-settings/how-to-restrict-ip-address.html)
+
+* [How To Configure ADFS SSO | Unified PAM](https://www.securden.com/privileged-access-management/help/single-sign-on-for-users/how-to-configure-active-directory-federation-service-sso-in-pam.html)
+
+* [How To Configure Entra ID (Azure AD) SSO | Unified PAM](https://www.securden.com/privileged-access-management/help/single-sign-on-for-users/how-to-configure-azure-ad-sso-in-pam.html)
+
+* [How To Configure G-Suite SSO | Unified PAM](https://www.securden.com/privileged-access-management/help/single-sign-on-for-users/how-to-configure-gsuite-sso-in-pam.html)
+
+* [How To Configure Okta SSO| Unified PAM](https://www.securden.com/privileged-access-management/help/single-sign-on-for-users/how-to-configure-okta-sso-in-pam.html)
+
+* [How To Configure OneLogin SSO | Unified PAM](https://www.securden.com/privileged-access-management/help/single-sign-on-for-users/how-to-configure-one-login-sso-in-pam.html)
+
+* [How To Configure PingIdentity SSO | Unified PAM](https://www.securden.com/privileged-access-management/help/single-sign-on-for-users/how-to-configure-ping-identity-sso-in-pam.html)
+
+* [How To Configure Single-Sign-On | Unified PAM](https://www.securden.com/privileged-access-management/help/single-sign-on-for-users/how-to-configure-single-sign-on-in-pam.html)
+
+* [How To Add Groups Manually | Unified PAM](https://www.securden.com/privileged-access-management/help/user-management/how-to-add-user-groups-manually-in-pam.html)
+
+* [How To Create User Groups | Unified PAM](https://www.securden.com/privileged-access-management/help/user-management/how-to-create-user-groups-in-pam.html)
+
+* [How To Edit User Attributes| Unified PAM](https://www.securden.com/privileged-access-management/help/user-management/how-to-edit-user-attributes-in-pam.html)
+
+* [How To Import Groups From Active Directory | Unified PAM](https://www.securden.com/privileged-access-management/help/user-management/how-to-import-user-groups-from-ad-in-pam.html)
+
+* [How To Import Groups From Entra ID (Azure AD) | Unified PAM](https://www.securden.com/privileged-access-management/help/user-management/how-to-import-user-groups-from-azure-ad-in-pam.html)
+
+* [How To Import Groups Using LDAP | Unified PAM](https://www.securden.com/privileged-access-management/help/user-management/how-to-import-user-groups-from-ldap-in-pam.html)
+
+* [How To Manage Usergroups | Unified PAM](https://www.securden.com/privileged-access-management/help/user-management/how-to-manage-groups-in-pam.html)
+
+* [How To Monitor Concurrent Logins | Unified PAM](https://www.securden.com/privileged-access-management/help/user-management/how-to-monitor-concurrent-logins-in-pam.html)
+
+* [How To Transfer Ownership Of Accounts | Unified PAM](https://www.securden.com/privileged-access-management/help/user-management/how-to-transfer-ownership-of-accounts-in-pam.html)
+
+* [How To Understand User Details | Unified PAM](https://www.securden.com/privileged-access-management/help/user-management/how-to-view-user-details-in-pam.html)
+
+* [How To View User Reports | Unified PAM](https://www.securden.com/privileged-access-management/help/user-management/how-to-view-user-reports-in-pam.html)
+
+* [User Management | Unified PAM](https://www.securden.com/privileged-access-management/help/user-management/introduction-to-user-management-in-unified-pam.html)
+
+* [General - Administrator Guide](https://www.securden.com/privileged-access-management/help/configurations/remote-connections/general.html)
+
+* [Introduction to Security Specifications | Securden EPM Cloud Edition](https://www.securden.com/endpoint-privilege-manager/cloud/security-design-and-specifications/index.html)
+
+* [Introduction to Security Design | Securden EPM](https://www.securden.com/endpoint-privilege-manager/security-design-and-specifications/index.html)
+
+* [How to Change the Encryption Key Location in EPM | Endpoint Privilege Manager](https://www.securden.com/endpoint-privilege-manager/help/security/how-to-change-the-encryption-key-location.html)
+
+* [How to Configure High Availability in EPM with MS SQL Database Server |  Securden Endpoint Privilege Manager](https://www.securden.com/endpoint-privilege-manager/help/redundancy-measures/how-to-configure-high-availability-setup-with-mssql-as-the-database-in-epm.html)
+
+* [How to Configure High Availability in EPM with PostgreSQL Database Server |  Securden Endpoint Privilege Manager](https://www.securden.com/endpoint-privilege-manager/help/redundancy-measures/how-to-configure-high-availability-setup-with-postgresql-as-the-database-in-epm.html)
+
+* [Overview of Contents | EPM QuickStart Guide](https://www.securden.com/endpoint-privilege-manager/quick-start-guide/index.html)
+
+* [How to Deploy Endpoint Privilege Manager Successfully | Securden EPM](https://www.securden.com/endpoint-privilege-manager/deployment-guide/index.html)
+
+* [Endpoint Privilege Manager - Use Case Walkthrough](https://www.securden.com/endpoint-privilege-manager/docs/epm-use-case-walkthrough/index.html)
+
+* [Endpoint Privilege Manager Admin Guide](https://www.securden.com/endpoint-privilege-manager/help/index.html)
+
+* [How to Deploy Endpoint Privilege Manager Successfully | Securden EPM](https://www.securden.com/endpoint-privilege-manager/epm-deployment-checklist/introduction.html)
+
+* [Endpoint Privilege Manager Deployment Checklist | Securden EPM](https://www.securden.com/endpoint-privilege-manager/epm-deployment-checklist/deployment-phase.html)
+
+* [Post-deployment Validation for Implementing Least Privilege | Securden Endpoint Privilege Manager](https://www.securden.com/endpoint-privilege-manager/epm-deployment-checklist/post-deployment-validation.html)
+
+* [How to Migrate from PostgreSQL to MS SQL Server as the Backend Database | Securden EPM](https://www.securden.com/endpoint-privilege-manager/help/misc/how-to-migrate-the-backend-database-to-ms-sql-server.html)
+
+* [What are the Application Types Supported in Endpoint Privilege Manager | Securden EPM](https://www.securden.com/endpoint-privilege-manager/help/privilege-management/application-types-supported-in-endpoint-privilege-manager-epm.html)
+
+* [How to Enforce URL Filtering in Endpoint Privilege Manager | Securden EPM](https://www.securden.com/endpoint-privilege-manager/help/privilege-management/how-to-enforce-url-filtering.html)
+
+* [Security Design and Specifications | Securden Password Manager](https://www.securden.com/password-manager/cloud/index.html)
+
+* [Password Vault - Deployment Guide](https://www.securden.com/password-manager/deployment-guide/index.html)
+
+* [Deployment Prerequisites - Password Vault - Deployment Guide](https://www.securden.com/password-manager/deployment-guide/deployment-prerequisites.html)
+
+* [Implementation Checklist - Password Vault - Deployment Guide](https://www.securden.com/password-manager/deployment-guide/implementation-checklist.html)
+
+* [Securden Password Vault Architecture - Password Vault - Deployment Guide](https://www.securden.com/password-manager/deployment-guide/password-manager-architecture.html)
+
+* [Ports Used - Password Vault - Deployment Guide](https://www.securden.com/password-manager/deployment-guide/ports-used.html)
+
+* [Recommended System Configurations - Password Vault - Deployment Guide](https://www.securden.com/password-manager/deployment-guide/recommended-system-configurations.html)
+
+* [Security Design and Specifications | Securden Password Manager](https://www.securden.com/password-manager/security-design-and-specifications/index.html)
+
+* [Top 12 Password Manager Use Cases for 2026 | Securden Password Vault for Enterprises](https://www.securden.com/password-manager/use-cases/index.html)
+
+* [Securely Store Business & Team Passwords | | Password Manager Use Case](https://www.securden.com/password-manager/use-cases/securely-store-passwords-in-encrypted-vault.html)
+
+* [Secured Vault for Employees | Password Manager Use Case](https://www.securden.com/password-manager/use-cases/personal-password-vault-for-employees.html)
+
+* [Enforce Business Password Policies for Compliance | Password Manager Use Case](https://www.securden.com/password-manager/use-cases/create-password-policies-for-compliance.html)
+
+* [Generate Strong Passwords & Passphrases for Business teams | Password Manager Use Case](https://www.securden.com/password-manager/use-cases/generate-strong-passwords-passphrases.html)
+
+* [Secure Business passwords on Windows, Mac & Linux | Password Manager Use Case](https://www.securden.com/password-manager/use-cases/secure-passwords-windows-mac-linux.html)
+
+* [Cross-Platform Enterprise Password Access | Password Manager Use Case](https://www.securden.com/password-manager/use-cases/cross-platform-access-across-desktops-mobile.html)
+
+* [Autofill Business & Team Passwords for Apps & Websites | Password Manager Use Case](https://www.securden.com/password-manager/use-cases/autofill-passwords-across-website-applications-tools.html)
+
+* [Enforce Periodic Business Password Rotation | Password Manager Use Case](https://www.securden.com/password-manager/use-cases/periodically-change-stagnant-passwords.html)
+
+* [Granular Password Sharing for Business &Teams | Password Manager Use Case](https://www.securden.com/password-manager/use-cases/share-passwords-granularly.html)
+
+* [Secure Enterprise Password Sharing with Vendors | Password Manager Use Case](https://www.securden.com/password-manager/use-cases/share-passwords-with-third-party.html)
+
+* [Enforce Admin Controls on Employee Password Access | Password Manager Use Case](https://www.securden.com/password-manager/use-cases/enforce-administrative-controls-for-employees.html)
+
+* [Onboard and Manage Privileged Users | Password Manager Use Case](https://www.securden.com/password-manager/use-cases/onboard-and-manage-priviledged-users.html)
+
+* [How to Securely Share Accounts and Passwords with Third Parties? | Password Manager Administrator Guide](https://www.securden.com/password-manager/help/account-management/how-to-share-accounts-or-passwords-with-third-parties-in-password-vault.html)
+
+* [How to Configure Just-In-Time (JIT) Access in Password Vault? | Securden](https://www.securden.com/password-manager/help/account-management/how-to-configure-just-in-time-access-through-approval-workflow-in-password-vault.html)

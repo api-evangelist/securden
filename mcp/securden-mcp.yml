@@ -1,0 +1,17 @@
+generated: '2026-07-21'
+method: derived
+status: candidate
+source: openapi/securden-password-retrieval-openapi.yml
+notes: >-
+  No official hosted/remote MCP server was found for Securden. This is a candidate tool
+  list derived from the published Password Retrieval API to seed an MCP server. Not published.
+server:
+  name: securden
+  transport: stdio
+tools:
+  - name: get_auth_token
+    description: Obtain a dynamic Securden API authentication token.
+    source_operation: "GET /api/get_auth_token"
+  - name: get_password
+    description: Retrieve a password for an account by id, name, title, or type.
+    source_operation: openapi/securden-password-retrieval-openapi.yml#/get_password/get

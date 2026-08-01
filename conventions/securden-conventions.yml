@@ -1,0 +1,29 @@
+generated: '2026-07-21'
+method: searched
+source: https://www.securden.com/privileged-access-management/help/api-access/how-to-eliminate-hardcoded-credentials-using-apis-in-pam.html
+authentication:
+  style: apiKey token
+  parameter: authtoken
+  detail: >-
+    Static or dynamic API Authentication Token. Dynamic tokens are minted via
+    GET /api/get_auth_token; static tokens are issued in the admin console.
+  cross_ref: authentication/securden-authentication.yml
+base_url:
+  pattern: "https://{your_api_url}/api"
+  note: Self-hosted / SaaS — the API host is the customer's own Securden server (e.g. https://company.securden.com:5454).
+idempotency:
+  supported: false
+  note: Published API surface is read-only credential retrieval (GET /get_password); no idempotency-key contract documented.
+pagination:
+  supported: false
+  note: No list/collection endpoint published; retrieval is by account identifier.
+versioning:
+  scheme: none-documented
+  api_version: '1.0.0'
+  note: OpenAPI info.version 1.0.0; no public dated changelog or version policy found.
+error_envelope:
+  shape: http-status
+  detail: Plain HTTP status codes (400 Bad Request, 500 Internal Server Error); no problem+json envelope.
+  cross_ref: errors/securden-problem-types.yml
+rate_limiting:
+  documented: false

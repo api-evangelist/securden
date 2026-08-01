@@ -1,0 +1,16 @@
+generated: '2026-07-21'
+method: derived
+source: openapi/securden-password-retrieval-openapi.yml
+format: http-status
+notes: >-
+  Securden's published Password Retrieval API returns plain HTTP status codes (no
+  application/problem+json envelope declared). Catalog derived from the OpenAPI responses.
+problems:
+  - status: 400
+    title: Bad Request
+    description: The request was malformed or missing/invalid required parameters.
+    source_operation: openapi/securden-password-retrieval-openapi.yml#/get_password/get
+  - status: 500
+    title: Internal Server Error
+    description: The Securden server encountered an error while processing the request.
+    source_operation: openapi/securden-password-retrieval-openapi.yml#/get_password/get

@@ -1,0 +1,31 @@
+generated: '2026-07-21'
+method: searched
+source: https://github.com/SecurdenDevOps/win-cli
+name: securden-cli
+description: >-
+  Securden's official CLI tool provides a secure, seamless and efficient way for
+  non-developers and system admins to integrate Securden's password management into
+  their CLIs and tools, across local development, CI/CD, staging, and production.
+binary: securden-cli
+homepage: https://github.com/SecurdenDevOps/win-cli
+license: MIT
+install:
+  - platform: linux
+    method: apt
+    repo: https://github.com/SecurdenDevOps/get-cli-apt
+    command: sudo apt update && sudo apt install securden-cli
+    upgrade: sudo apt update && sudo apt install --only-upgrade securden-cli
+  - platform: macos
+    method: homebrew
+    repo: https://github.com/SecurdenDevOps/homebrew-get-cli
+  - platform: windows
+    method: release-zip
+    repo: https://github.com/SecurdenDevOps/win-cli
+    url: https://github.com/SecurdenDevOps/win-cli/releases
+auth:
+  server_url: The Securden server endpoint (e.g. https://company.securden.com:5454)
+  authtoken: Securden API Authentication Token
+usage: "securden-cli <command> --server-url <server-url> --authtoken <authtoken> <--params>"
+capabilities:
+  - Securely retrieve credentials from the Securden server for use in scripts and pipelines.
+support: devops-support@securden.com
