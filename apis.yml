@@ -62,8 +62,10 @@ apis:
   - type: OpenAPI
     url: openapi/securden-get-password-api-openapi.yml
 common:
+- type: Overlay
+  url: overlays/securden-password-retrieval-overlay.yaml
 - type: OpenAPI
-  url: openapi/securden-password-retrieval-openapi.yml
+  url: openapi/_original/securden-password-retrieval-openapi.yml
 - type: Authentication
   url: authentication/securden-authentication.yml
 - type: Conventions
