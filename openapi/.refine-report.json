@@ -1,7 +1,7 @@
 {
   "provider": "securden",
   "sources": [
-    "securden-get-password-api-openapi.yml"
+    "_original/securden-password-retrieval-openapi.yml"
   ],
   "outputs": [
     "securden-get-password-api-openapi.yml"
@@ -9,6 +9,14 @@
   "archived": [],
   "errors": [],
   "warnings": [],
-  "notes": [],
-  "skipped": []
+  "notes": [
+    "sourced from openapi/_original/ (1 archived document(s)); previously refined output at the top level was skipped rather than re-split",
+    "securden-password-retrieval-openapi.yml: upgraded openapi 3.0.0 -> OpenAPI 3.2.0",
+    "securden-password-retrieval-openapi.yml: tagged paths GET /get_password -> Get Password",
+    "securden-password-retrieval-openapi.yml: declared missing tag: Get Password",
+    "apis.yml register: already-registered"
+  ],
+  "skipped": [
+    "securden-get-password-api-openapi.yml: previously refined output, superseded by openapi/_original/"
+  ]
 }
