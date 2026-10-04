@@ -75,6 +75,9 @@ apis:
   - type: OpenAPI
     url: openapi/securden-get-password-api-openapi.yml
 common:
+- type: CapabilityMap
+  url: capabilities/securden-capability-edges.yml
+  name: Securden Business Capability Map
 - type: Overlay
   url: overlays/securden-password-retrieval-overlay.yaml
 - type: OpenAPI

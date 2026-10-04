@@ -1,0 +1,25 @@
+slug: securden
+provider: Securden
+generated_by: planning/capability-mapping/scripts/classify_capabilities.py
+model: claude-opus-5
+frame:
+- Software & Technology
+min_confidence: 0.7
+capability_model:
+  source: https://github.com/vincentmakes/turbo-ea-capabilities
+  license: CC-BY-4.0
+  attribution: Turbo EA Capabilities by Vincent Verdet — Turbo EA, https://github.com/vincentmakes/turbo-ea-capabilities,
+    CC BY 4.0
+  notice: NOTICE
+edge_count: 1
+edges:
+- tag: Get Password
+  spec_file: securden-get-password-api-openapi.yml
+  capability_id: BC-620.20
+  capability_id_l1: BC-620
+  capability_name: Identity & Access Management
+  confidence: 0.9
+  evidence: GET /get_password getGetPassword Retrieves password information
+  reason: Credential retrieval from Securden's privileged access/password vault. The vendor description
+    names 'Privileged Access Management (PAM), ... a business Password Vault', so this operation plainly
+    realises Identity & Access Management (PAM/credential access).
