@@ -64,6 +64,121 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Securden is a company surfaced as a portfolio company of accel and added to the API Evangelist network as a stub for enrichment. Sector: ai. This profile is a lead awaiting the enrichment pipeline.
+Securden is a unified identity security platform that consolidates Privileged Access Management (PAM), Endpoint Privilege Manager (EPM), a business Password Vault, Identity Governance & Administration (IGA), Cloud Infrastructure Entitlement Management (CIEM), Non-Human Identity Management, and AI Agent Security into a single architecture. It is available on-premises, self-hosted, or as SaaS, and is used by organizations including Harvard Medical School, NASA, Shell, and Coca-Cola. For developers and DevOps, Securden publishes a token-authenticated Password Retrieval REST API plus official SDKs (JavaScript, Go, Java, .NET), a cross-platform CLI, and a Terraform provider to eliminate hardcoded credentials in scripts and pipelines. Securden holds SOC 2 Type II and ISO/IEC 27001 certifications and is GDPR compliant.
 
-Backed by: accel — https://www.securden.com/
+**Areas:** Company · Identity · Security · Privileged Access Management · Password Management · Secrets Management · Endpoint Security · DevOps · AI Agent Security
+
+## Securden on APIs.io
+
+Everything profiled for Securden is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/securden/](https://apis.io/providers/securden/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Securden Get Password API](https://apis.io/apis/securden/securden-get-password-api/) — The Get Password API from Securden — 1 operation(s) for get password.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [securden](https://apis.io/servers/securden/securden/)
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Securden Agentic Access](https://apis.io/agentic-access/securden/securden-agentic-access/)
+
+#### Collections (1)
+
+Postman and Open Collection request collections.
+
+- [Password Retrieval Get Password API](https://apis.io/collections/securden/open-securden-get-password-api/)
+
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Securden Password Retrieval Overlay](https://apis.io/overlays/securden/securden-password-retrieval-overlay/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Securden Authentication](https://apis.io/security/securden/securden-authentication/)
+- [Securden Domain Security](https://apis.io/security/securden/securden-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.securden.com/)
+- [Documentation](https://www.securden.com/technical-documentation-and-guides.html)
+- [Getting started](https://www.securden.com/privileged-access-management/help/api-access/how-to-eliminate-hardcoded-credentials-using-apis-in-pam.html)
+- [API reference](https://www.securden.com/privileged-access-management/help/api-access/how-to-eliminate-hardcoded-credentials-using-apis-in-pam.html)
+- [Pricing](https://www.securden.com/get-price-quote.html)
+- [Sign up](https://www.securden.com/downloads.html)
+- [Support](https://www.securden.com/knowledge-base/index.html)
+- [Blog](https://www.securden.com/blog/index.html)
+- [Compliance](https://www.securden.com/privileged-access-management/security-design-and-specifications/index.html)
+- [Terms of service](https://www.securden.com/end-user-license-agreement.html)
+- [Privacy policy](https://www.securden.com/privacy-policy.html)
+- [GitHub](https://github.com/SecurdenDevOps)
+
+## API Evangelist rating
+
+**Kin Score 44.4** — developing · rubric 0.25.0 · scored 2026-10-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 73.2 |
+| Contract quality | 36.7 |
+| Contract governance | 18.2 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 63.7 |
+| Access clarity | 52.6 |
+
+**Agent readiness 21.9** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | derived (partial credit) |
+| Reversibility Documented | na |
+| MCP Server | — |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | na |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | derived (partial credit) |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | na |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 29.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/securden/](https://apis.io/providers/securden/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Securden: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/securden/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
